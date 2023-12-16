@@ -1,0 +1,2220 @@
+,Labels,Predictions,Correct/Wrong
+0,Abyssinian,Abyssinian,Correct
+1,Abyssinian,Abyssinian,Correct
+2,Abyssinian,Abyssinian,Correct
+3,Abyssinian,Abyssinian,Correct
+4,Abyssinian,Abyssinian,Correct
+5,Abyssinian,Abyssinian,Correct
+6,Abyssinian,Abyssinian,Correct
+7,Abyssinian,Abyssinian,Correct
+8,Abyssinian,Abyssinian,Correct
+9,Abyssinian,Abyssinian,Correct
+10,Abyssinian,Abyssinian,Correct
+11,Abyssinian,Bengal,Wrong
+12,Abyssinian,Abyssinian,Correct
+13,Abyssinian,Abyssinian,Correct
+14,Abyssinian,Abyssinian,Correct
+15,Abyssinian,Abyssinian,Correct
+16,Abyssinian,Abyssinian,Correct
+17,Abyssinian,Abyssinian,Correct
+18,Abyssinian,Abyssinian,Correct
+19,Abyssinian,Abyssinian,Correct
+20,Abyssinian,Abyssinian,Correct
+21,Abyssinian,Abyssinian,Correct
+22,Abyssinian,Abyssinian,Correct
+23,Abyssinian,Abyssinian,Correct
+24,Abyssinian,Abyssinian,Correct
+25,Abyssinian,Abyssinian,Correct
+26,Abyssinian,Abyssinian,Correct
+27,Abyssinian,Abyssinian,Correct
+28,Abyssinian,Abyssinian,Correct
+29,Abyssinian,Abyssinian,Correct
+30,Abyssinian,Abyssinian,Correct
+31,Abyssinian,Abyssinian,Correct
+32,Abyssinian,Abyssinian,Correct
+33,Abyssinian,Abyssinian,Correct
+34,Abyssinian,British shorthair,Wrong
+35,Abyssinian,Ragdoll,Wrong
+36,Abyssinian,Abyssinian,Correct
+37,Abyssinian,Abyssinian,Correct
+38,Abyssinian,Abyssinian,Correct
+39,Abyssinian,Abyssinian,Correct
+40,Abyssinian,Abyssinian,Correct
+41,Abyssinian,Abyssinian,Correct
+42,Abyssinian,Abyssinian,Correct
+43,Abyssinian,Abyssinian,Correct
+44,Abyssinian,Abyssinian,Correct
+45,Abyssinian,Abyssinian,Correct
+46,Abyssinian,Russian blue,Wrong
+47,Abyssinian,Abyssinian,Correct
+48,Abyssinian,Ragdoll,Wrong
+49,Abyssinian,Abyssinian,Correct
+50,Abyssinian,Abyssinian,Correct
+51,Abyssinian,Abyssinian,Correct
+52,Abyssinian,Abyssinian,Correct
+53,Abyssinian,Abyssinian,Correct
+54,Abyssinian,Abyssinian,Correct
+55,Abyssinian,Abyssinian,Correct
+56,Abyssinian,Abyssinian,Correct
+57,Abyssinian,Ragdoll,Wrong
+58,Abyssinian,Abyssinian,Correct
+59,Abyssinian,Abyssinian,Correct
+60,Abyssinian,Abyssinian,Correct
+61,American bulldog,Pug,Wrong
+62,American bulldog,American bulldog,Correct
+63,American bulldog,Beagle,Wrong
+64,American bulldog,American bulldog,Correct
+65,American bulldog,British shorthair,Wrong
+66,American bulldog,Ragdoll,Wrong
+67,American bulldog,Boxer,Wrong
+68,American bulldog,American pit bull terrier,Wrong
+69,American bulldog,Abyssinian,Wrong
+70,American bulldog,Pug,Wrong
+71,American bulldog,Beagle,Wrong
+72,American bulldog,Ragdoll,Wrong
+73,American bulldog,Bombay,Wrong
+74,American bulldog,Pug,Wrong
+75,American bulldog,Beagle,Wrong
+76,American bulldog,American bulldog,Correct
+77,American bulldog,American bulldog,Correct
+78,American bulldog,Staffordshire bull terrier,Wrong
+79,American bulldog,Staffordshire bull terrier,Wrong
+80,American bulldog,Boxer,Wrong
+81,American bulldog,American bulldog,Correct
+82,American bulldog,American bulldog,Correct
+83,American bulldog,American bulldog,Correct
+84,American bulldog,American bulldog,Correct
+85,American bulldog,Beagle,Wrong
+86,American bulldog,American bulldog,Correct
+87,American bulldog,Pug,Wrong
+88,American bulldog,Great pyrenees,Wrong
+89,American bulldog,British shorthair,Wrong
+90,American bulldog,American bulldog,Correct
+91,American bulldog,Chihuahua,Wrong
+92,American bulldog,American bulldog,Correct
+93,American bulldog,Beagle,Wrong
+94,American bulldog,American bulldog,Correct
+95,American bulldog,American bulldog,Correct
+96,American bulldog,Pug,Wrong
+97,American bulldog,Staffordshire bull terrier,Wrong
+98,American bulldog,Ragdoll,Wrong
+99,American bulldog,American bulldog,Correct
+100,American bulldog,American bulldog,Correct
+101,American bulldog,Sphynx,Wrong
+102,American bulldog,American bulldog,Correct
+103,American bulldog,American bulldog,Correct
+104,American bulldog,American bulldog,Correct
+105,American bulldog,Beagle,Wrong
+106,American bulldog,American bulldog,Correct
+107,American bulldog,American bulldog,Correct
+108,American bulldog,Sphynx,Wrong
+109,American bulldog,Pug,Wrong
+110,American bulldog,American bulldog,Correct
+111,American bulldog,American bulldog,Correct
+112,American bulldog,Beagle,Wrong
+113,American bulldog,Japanese chin,Wrong
+114,American bulldog,Ragdoll,Wrong
+115,American bulldog,Beagle,Wrong
+116,American bulldog,Sphynx,Wrong
+117,American bulldog,American bulldog,Correct
+118,American bulldog,American bulldog,Correct
+119,American bulldog,American bulldog,Correct
+120,American bulldog,Beagle,Wrong
+121,American pit bull terrier,American pit bull terrier,Correct
+122,American pit bull terrier,American bulldog,Wrong
+123,American pit bull terrier,Chihuahua,Wrong
+124,American pit bull terrier,Beagle,Wrong
+125,American pit bull terrier,American pit bull terrier,Correct
+126,American pit bull terrier,Pug,Wrong
+127,American pit bull terrier,Pug,Wrong
+128,American pit bull terrier,Shiba inu,Wrong
+129,American pit bull terrier,Staffordshire bull terrier,Wrong
+130,American pit bull terrier,Abyssinian,Wrong
+131,American pit bull terrier,Staffordshire bull terrier,Wrong
+132,American pit bull terrier,American pit bull terrier,Correct
+133,American pit bull terrier,Chihuahua,Wrong
+134,American pit bull terrier,American pit bull terrier,Correct
+135,American pit bull terrier,Siamese,Wrong
+136,American pit bull terrier,Staffordshire bull terrier,Wrong
+137,American pit bull terrier,Staffordshire bull terrier,Wrong
+138,American pit bull terrier,American pit bull terrier,Correct
+139,American pit bull terrier,Bombay,Wrong
+140,American pit bull terrier,Beagle,Wrong
+141,American pit bull terrier,American pit bull terrier,Correct
+142,American pit bull terrier,American pit bull terrier,Correct
+143,American pit bull terrier,Staffordshire bull terrier,Wrong
+144,American pit bull terrier,Staffordshire bull terrier,Wrong
+145,American pit bull terrier,Staffordshire bull terrier,Wrong
+146,American pit bull terrier,Staffordshire bull terrier,Wrong
+147,American pit bull terrier,Abyssinian,Wrong
+148,American pit bull terrier,American pit bull terrier,Correct
+149,American pit bull terrier,American bulldog,Wrong
+150,American pit bull terrier,Miniature pinscher,Wrong
+151,American pit bull terrier,Staffordshire bull terrier,Wrong
+152,American pit bull terrier,American pit bull terrier,Correct
+153,American pit bull terrier,American pit bull terrier,Correct
+154,American pit bull terrier,Abyssinian,Wrong
+155,American pit bull terrier,Staffordshire bull terrier,Wrong
+156,American pit bull terrier,Staffordshire bull terrier,Wrong
+157,American pit bull terrier,American pit bull terrier,Correct
+158,American pit bull terrier,American bulldog,Wrong
+159,American pit bull terrier,Staffordshire bull terrier,Wrong
+160,American pit bull terrier,English setter,Wrong
+161,American pit bull terrier,American pit bull terrier,Correct
+162,American pit bull terrier,Staffordshire bull terrier,Wrong
+163,American pit bull terrier,American pit bull terrier,Correct
+164,American pit bull terrier,Shiba inu,Wrong
+165,American pit bull terrier,American pit bull terrier,Correct
+166,American pit bull terrier,Saint bernard,Wrong
+167,American pit bull terrier,Newfoundland,Wrong
+168,American pit bull terrier,American pit bull terrier,Correct
+169,American pit bull terrier,American pit bull terrier,Correct
+170,American pit bull terrier,American pit bull terrier,Correct
+171,American pit bull terrier,American pit bull terrier,Correct
+172,American pit bull terrier,Staffordshire bull terrier,Wrong
+173,American pit bull terrier,Bombay,Wrong
+174,American pit bull terrier,Staffordshire bull terrier,Wrong
+175,American pit bull terrier,Staffordshire bull terrier,Wrong
+176,American pit bull terrier,Abyssinian,Wrong
+177,American pit bull terrier,American pit bull terrier,Correct
+178,American pit bull terrier,Shiba inu,Wrong
+179,American pit bull terrier,American pit bull terrier,Correct
+180,American pit bull terrier,Beagle,Wrong
+181,Basset hound,Basset hound,Correct
+182,Basset hound,Basset hound,Correct
+183,Basset hound,Basset hound,Correct
+184,Basset hound,German shorthaired,Wrong
+185,Basset hound,Basset hound,Correct
+186,Basset hound,Basset hound,Correct
+187,Basset hound,Basset hound,Correct
+188,Basset hound,Basset hound,Correct
+189,Basset hound,Basset hound,Correct
+190,Basset hound,Basset hound,Correct
+191,Basset hound,Basset hound,Correct
+192,Basset hound,Basset hound,Correct
+193,Basset hound,Basset hound,Correct
+194,Basset hound,Basset hound,Correct
+195,Basset hound,Basset hound,Correct
+196,Basset hound,Basset hound,Correct
+197,Basset hound,Beagle,Wrong
+198,Basset hound,Bengal,Wrong
+199,Basset hound,Basset hound,Correct
+200,Basset hound,Basset hound,Correct
+201,Basset hound,Basset hound,Correct
+202,Basset hound,Basset hound,Correct
+203,Basset hound,Basset hound,Correct
+204,Basset hound,Bombay,Wrong
+205,Basset hound,Beagle,Wrong
+206,Basset hound,Abyssinian,Wrong
+207,Basset hound,Basset hound,Correct
+208,Basset hound,Basset hound,Correct
+209,Basset hound,Basset hound,Correct
+210,Basset hound,Basset hound,Correct
+211,Basset hound,Basset hound,Correct
+212,Basset hound,Basset hound,Correct
+213,Basset hound,American pit bull terrier,Wrong
+214,Basset hound,Basset hound,Correct
+215,Basset hound,Staffordshire bull terrier,Wrong
+216,Basset hound,Basset hound,Correct
+217,Basset hound,Basset hound,Correct
+218,Basset hound,Basset hound,Correct
+219,Basset hound,Basset hound,Correct
+220,Basset hound,Staffordshire bull terrier,Wrong
+221,Basset hound,Basset hound,Correct
+222,Basset hound,Beagle,Wrong
+223,Basset hound,Beagle,Wrong
+224,Basset hound,Basset hound,Correct
+225,Basset hound,Basset hound,Correct
+226,Basset hound,Basset hound,Correct
+227,Basset hound,Basset hound,Correct
+228,Basset hound,Basset hound,Correct
+229,Basset hound,Basset hound,Correct
+230,Basset hound,Basset hound,Correct
+231,Basset hound,Basset hound,Correct
+232,Basset hound,Beagle,Wrong
+233,Basset hound,Staffordshire bull terrier,Wrong
+234,Basset hound,Basset hound,Correct
+235,Basset hound,Basset hound,Correct
+236,Basset hound,Wheaten terrier,Wrong
+237,Basset hound,Bengal,Wrong
+238,Basset hound,Basset hound,Correct
+239,Basset hound,Basset hound,Correct
+240,Basset hound,Beagle,Wrong
+241,Beagle,Beagle,Correct
+242,Beagle,Russian blue,Wrong
+243,Beagle,Beagle,Correct
+244,Beagle,Wheaten terrier,Wrong
+245,Beagle,Beagle,Correct
+246,Beagle,Beagle,Correct
+247,Beagle,Beagle,Correct
+248,Beagle,Beagle,Correct
+249,Beagle,Beagle,Correct
+250,Beagle,Basset hound,Wrong
+251,Beagle,American pit bull terrier,Wrong
+252,Beagle,Beagle,Correct
+253,Beagle,Beagle,Correct
+254,Beagle,Beagle,Correct
+255,Beagle,Beagle,Correct
+256,Beagle,Beagle,Correct
+257,Beagle,Bombay,Wrong
+258,Beagle,Beagle,Correct
+259,Beagle,Staffordshire bull terrier,Wrong
+260,Beagle,Abyssinian,Wrong
+261,Beagle,Beagle,Correct
+262,Beagle,Staffordshire bull terrier,Wrong
+263,Beagle,Abyssinian,Wrong
+264,Beagle,Staffordshire bull terrier,Wrong
+265,Beagle,American pit bull terrier,Wrong
+266,Beagle,Abyssinian,Wrong
+267,Beagle,Beagle,Correct
+268,Beagle,Japanese chin,Wrong
+269,Beagle,Abyssinian,Wrong
+270,Beagle,Beagle,Correct
+271,Beagle,Beagle,Correct
+272,Beagle,Beagle,Correct
+273,Beagle,Beagle,Correct
+274,Beagle,Beagle,Correct
+275,Beagle,Staffordshire bull terrier,Wrong
+276,Beagle,Beagle,Correct
+277,Beagle,Beagle,Correct
+278,Beagle,American bulldog,Wrong
+279,Beagle,Boxer,Wrong
+280,Beagle,Siamese,Wrong
+281,Beagle,Beagle,Correct
+282,Beagle,Beagle,Correct
+283,Beagle,Beagle,Correct
+284,Beagle,Abyssinian,Wrong
+285,Beagle,Beagle,Correct
+286,Beagle,Beagle,Correct
+287,Beagle,Bengal,Wrong
+288,Beagle,Beagle,Correct
+289,Beagle,Beagle,Correct
+290,Beagle,Basset hound,Wrong
+291,Beagle,Beagle,Correct
+292,Beagle,Beagle,Correct
+293,Beagle,Beagle,Correct
+294,Beagle,German shorthaired,Wrong
+295,Beagle,Beagle,Correct
+296,Beagle,Beagle,Correct
+297,Beagle,Beagle,Correct
+298,Beagle,Bengal,Wrong
+299,Beagle,Beagle,Correct
+300,Beagle,Beagle,Correct
+301,Bengal,Egyptian mau,Wrong
+302,Bengal,Abyssinian,Wrong
+303,Bengal,Bengal,Correct
+304,Bengal,Abyssinian,Wrong
+305,Bengal,Abyssinian,Wrong
+306,Bengal,Abyssinian,Wrong
+307,Bengal,Bengal,Correct
+308,Bengal,Abyssinian,Wrong
+309,Bengal,Abyssinian,Wrong
+310,Bengal,Abyssinian,Wrong
+311,Bengal,Egyptian mau,Wrong
+312,Bengal,Egyptian mau,Wrong
+313,Bengal,Bengal,Correct
+314,Bengal,Egyptian mau,Wrong
+315,Bengal,Abyssinian,Wrong
+316,Bengal,Egyptian mau,Wrong
+317,Bengal,Abyssinian,Wrong
+318,Bengal,Abyssinian,Wrong
+319,Bengal,Abyssinian,Wrong
+320,Bengal,Abyssinian,Wrong
+321,Bengal,Abyssinian,Wrong
+322,Bengal,Abyssinian,Wrong
+323,Bengal,Abyssinian,Wrong
+324,Bengal,Abyssinian,Wrong
+325,Bengal,Abyssinian,Wrong
+326,Bengal,Russian blue,Wrong
+327,Bengal,Egyptian mau,Wrong
+328,Bengal,Egyptian mau,Wrong
+329,Bengal,Abyssinian,Wrong
+330,Bengal,Egyptian mau,Wrong
+331,Bengal,Abyssinian,Wrong
+332,Bengal,Abyssinian,Wrong
+333,Bengal,Bengal,Correct
+334,Bengal,Egyptian mau,Wrong
+335,Bengal,Egyptian mau,Wrong
+336,Bengal,Abyssinian,Wrong
+337,Bengal,Bengal,Correct
+338,Bengal,Abyssinian,Wrong
+339,Bengal,Abyssinian,Wrong
+340,Bengal,Abyssinian,Wrong
+341,Bengal,Egyptian mau,Wrong
+342,Bengal,Bengal,Correct
+343,Bengal,Egyptian mau,Wrong
+344,Bengal,Bengal,Correct
+345,Bengal,Bengal,Correct
+346,Bengal,Bengal,Correct
+347,Bengal,Bengal,Correct
+348,Bengal,Egyptian mau,Wrong
+349,Bengal,Abyssinian,Wrong
+350,Bengal,Bengal,Correct
+351,Bengal,Bengal,Correct
+352,Bengal,Egyptian mau,Wrong
+353,Bengal,Egyptian mau,Wrong
+354,Bengal,Bengal,Correct
+355,Bengal,Bengal,Correct
+356,Bengal,Egyptian mau,Wrong
+357,Bengal,Egyptian mau,Wrong
+358,Bengal,Abyssinian,Wrong
+359,Bengal,Bengal,Correct
+360,Bengal,Abyssinian,Wrong
+361,Birman,Birman,Correct
+362,Birman,Birman,Correct
+363,Birman,Siamese,Wrong
+364,Birman,Keeshond,Wrong
+365,Birman,Pomeranian,Wrong
+366,Birman,Siamese,Wrong
+367,Birman,Birman,Correct
+368,Birman,Birman,Correct
+369,Birman,Birman,Correct
+370,Birman,Birman,Correct
+371,Birman,Birman,Correct
+372,Birman,Birman,Correct
+373,Birman,Siamese,Wrong
+374,Birman,Birman,Correct
+375,Birman,Birman,Correct
+376,Birman,Birman,Correct
+377,Birman,Birman,Correct
+378,Birman,Ragdoll,Wrong
+379,Birman,Birman,Correct
+380,Birman,Birman,Correct
+381,Birman,Birman,Correct
+382,Birman,Siamese,Wrong
+383,Birman,Birman,Correct
+384,Birman,Ragdoll,Wrong
+385,Birman,Siamese,Wrong
+386,Birman,Birman,Correct
+387,Birman,Birman,Correct
+388,Birman,Birman,Correct
+389,Birman,Birman,Correct
+390,Birman,Siamese,Wrong
+391,Birman,Birman,Correct
+392,Birman,Birman,Correct
+393,Birman,Ragdoll,Wrong
+394,Birman,Ragdoll,Wrong
+395,Birman,Birman,Correct
+396,Birman,Birman,Correct
+397,Birman,Birman,Correct
+398,Birman,Siamese,Wrong
+399,Birman,Keeshond,Wrong
+400,Birman,Ragdoll,Wrong
+401,Birman,Birman,Correct
+402,Birman,Siamese,Wrong
+403,Birman,Birman,Correct
+404,Birman,Siamese,Wrong
+405,Birman,Ragdoll,Wrong
+406,Birman,Ragdoll,Wrong
+407,Birman,Birman,Correct
+408,Birman,Birman,Correct
+409,Birman,Birman,Correct
+410,Birman,Birman,Correct
+411,Birman,Birman,Correct
+412,Birman,Birman,Correct
+413,Birman,Birman,Correct
+414,Birman,Ragdoll,Wrong
+415,Birman,Birman,Correct
+416,Birman,Ragdoll,Wrong
+417,Birman,Ragdoll,Wrong
+418,Birman,Birman,Correct
+419,Birman,Birman,Correct
+420,Birman,Birman,Correct
+421,Bombay,Bombay,Correct
+422,Bombay,Bombay,Correct
+423,Bombay,Bombay,Correct
+424,Bombay,Bombay,Correct
+425,Bombay,Bombay,Correct
+426,Bombay,Bombay,Correct
+427,Bombay,Bombay,Correct
+428,Bombay,Bombay,Correct
+429,Bombay,Bombay,Correct
+430,Bombay,Bombay,Correct
+431,Bombay,Bombay,Correct
+432,Bombay,Bombay,Correct
+433,Bombay,Bombay,Correct
+434,Bombay,Bombay,Correct
+435,Bombay,Bombay,Correct
+436,Bombay,Bombay,Correct
+437,Bombay,Bombay,Correct
+438,Bombay,Bombay,Correct
+439,Bombay,Bombay,Correct
+440,Bombay,Bombay,Correct
+441,Bombay,Bombay,Correct
+442,Bombay,Bombay,Correct
+443,Bombay,Bombay,Correct
+444,Bombay,Bombay,Correct
+445,Bombay,Bombay,Correct
+446,Bombay,Bombay,Correct
+447,Bombay,Bombay,Correct
+448,Bombay,Bombay,Correct
+449,Bombay,Bombay,Correct
+450,Bombay,Bombay,Correct
+451,Bombay,Russian blue,Wrong
+452,Bombay,Bombay,Correct
+453,Bombay,Bombay,Correct
+454,Bombay,Bombay,Correct
+455,Bombay,Bombay,Correct
+456,Bombay,Bombay,Correct
+457,Bombay,Bombay,Correct
+458,Bombay,Bombay,Correct
+459,Bombay,Bombay,Correct
+460,Bombay,Bombay,Correct
+461,Bombay,Bombay,Correct
+462,Bombay,Bombay,Correct
+463,Bombay,Bombay,Correct
+464,Bombay,Bombay,Correct
+465,Bombay,Bombay,Correct
+466,Bombay,Bombay,Correct
+467,Bombay,Bombay,Correct
+468,Bombay,Bombay,Correct
+469,Bombay,Abyssinian,Wrong
+470,Bombay,Bombay,Correct
+471,Bombay,Bombay,Correct
+472,Bombay,Bombay,Correct
+473,Bombay,Bombay,Correct
+474,Bombay,Bombay,Correct
+475,Bombay,Abyssinian,Wrong
+476,Bombay,Bombay,Correct
+477,Bombay,Bombay,Correct
+478,Bombay,Bombay,Correct
+479,Bombay,Bombay,Correct
+480,Bombay,Bombay,Correct
+481,Boxer,Abyssinian,Wrong
+482,Boxer,Boxer,Correct
+483,Boxer,Abyssinian,Wrong
+484,Boxer,Boxer,Correct
+485,Boxer,Wheaten terrier,Wrong
+486,Boxer,Boxer,Correct
+487,Boxer,Pug,Wrong
+488,Boxer,Boxer,Correct
+489,Boxer,Boxer,Correct
+490,Boxer,Sphynx,Wrong
+491,Boxer,Boxer,Correct
+492,Boxer,Pug,Wrong
+493,Boxer,Staffordshire bull terrier,Wrong
+494,Boxer,Boxer,Correct
+495,Boxer,Ragdoll,Wrong
+496,Boxer,Boxer,Correct
+497,Boxer,Boxer,Correct
+498,Boxer,Bombay,Wrong
+499,Boxer,Abyssinian,Wrong
+500,Boxer,Boxer,Correct
+501,Boxer,Abyssinian,Wrong
+502,Boxer,Pug,Wrong
+503,Boxer,American bulldog,Wrong
+504,Boxer,Boxer,Correct
+505,Boxer,Boxer,Correct
+506,Boxer,Boxer,Correct
+507,Boxer,Boxer,Correct
+508,Boxer,Staffordshire bull terrier,Wrong
+509,Boxer,Abyssinian,Wrong
+510,Boxer,Saint bernard,Wrong
+511,Boxer,Boxer,Correct
+512,Boxer,Bengal,Wrong
+513,Boxer,British shorthair,Wrong
+514,Boxer,Staffordshire bull terrier,Wrong
+515,Boxer,Staffordshire bull terrier,Wrong
+516,Boxer,Abyssinian,Wrong
+517,Boxer,Staffordshire bull terrier,Wrong
+518,Boxer,Boxer,Correct
+519,Boxer,Boxer,Correct
+520,Boxer,German shorthaired,Wrong
+521,Boxer,Wheaten terrier,Wrong
+522,Boxer,Pug,Wrong
+523,Boxer,Boxer,Correct
+524,Boxer,Siamese,Wrong
+525,Boxer,Boxer,Correct
+526,Boxer,Staffordshire bull terrier,Wrong
+527,Boxer,Abyssinian,Wrong
+528,Boxer,Boxer,Correct
+529,Boxer,Chihuahua,Wrong
+530,Boxer,Boxer,Correct
+531,Boxer,Boxer,Correct
+532,Boxer,Boxer,Correct
+533,Boxer,Abyssinian,Wrong
+534,Boxer,Beagle,Wrong
+535,Boxer,Basset hound,Wrong
+536,Boxer,Boxer,Correct
+537,Boxer,Boxer,Correct
+538,Boxer,American bulldog,Wrong
+539,Boxer,Staffordshire bull terrier,Wrong
+540,Boxer,Japanese chin,Wrong
+541,British shorthair,Russian blue,Wrong
+542,British shorthair,British shorthair,Correct
+543,British shorthair,British shorthair,Correct
+544,British shorthair,British shorthair,Correct
+545,British shorthair,British shorthair,Correct
+546,British shorthair,British shorthair,Correct
+547,British shorthair,British shorthair,Correct
+548,British shorthair,Abyssinian,Wrong
+549,British shorthair,British shorthair,Correct
+550,British shorthair,British shorthair,Correct
+551,British shorthair,Russian blue,Wrong
+552,British shorthair,British shorthair,Correct
+553,British shorthair,British shorthair,Correct
+554,British shorthair,British shorthair,Correct
+555,British shorthair,British shorthair,Correct
+556,British shorthair,Russian blue,Wrong
+557,British shorthair,British shorthair,Correct
+558,British shorthair,British shorthair,Correct
+559,British shorthair,Russian blue,Wrong
+560,British shorthair,British shorthair,Correct
+561,British shorthair,British shorthair,Correct
+562,British shorthair,British shorthair,Correct
+563,British shorthair,British shorthair,Correct
+564,British shorthair,Russian blue,Wrong
+565,British shorthair,British shorthair,Correct
+566,British shorthair,British shorthair,Correct
+567,British shorthair,British shorthair,Correct
+568,British shorthair,British shorthair,Correct
+569,British shorthair,British shorthair,Correct
+570,British shorthair,British shorthair,Correct
+571,British shorthair,British shorthair,Correct
+572,British shorthair,British shorthair,Correct
+573,British shorthair,Abyssinian,Wrong
+574,British shorthair,British shorthair,Correct
+575,British shorthair,British shorthair,Correct
+576,British shorthair,British shorthair,Correct
+577,British shorthair,British shorthair,Correct
+578,British shorthair,British shorthair,Correct
+579,British shorthair,British shorthair,Correct
+580,British shorthair,British shorthair,Correct
+581,British shorthair,Abyssinian,Wrong
+582,British shorthair,Egyptian mau,Wrong
+583,British shorthair,Bombay,Wrong
+584,British shorthair,British shorthair,Correct
+585,British shorthair,Bombay,Wrong
+586,British shorthair,British shorthair,Correct
+587,British shorthair,British shorthair,Correct
+588,British shorthair,British shorthair,Correct
+589,British shorthair,British shorthair,Correct
+590,British shorthair,British shorthair,Correct
+591,British shorthair,Russian blue,Wrong
+592,British shorthair,British shorthair,Correct
+593,British shorthair,British shorthair,Correct
+594,British shorthair,British shorthair,Correct
+595,British shorthair,British shorthair,Correct
+596,British shorthair,Abyssinian,Wrong
+597,British shorthair,Abyssinian,Wrong
+598,British shorthair,British shorthair,Correct
+599,British shorthair,British shorthair,Correct
+600,British shorthair,British shorthair,Correct
+601,Chihuahua,Chihuahua,Correct
+602,Chihuahua,Abyssinian,Wrong
+603,Chihuahua,Chihuahua,Correct
+604,Chihuahua,Abyssinian,Wrong
+605,Chihuahua,Chihuahua,Correct
+606,Chihuahua,Abyssinian,Wrong
+607,Chihuahua,Chihuahua,Correct
+608,Chihuahua,Chihuahua,Correct
+609,Chihuahua,Chihuahua,Correct
+610,Chihuahua,Chihuahua,Correct
+611,Chihuahua,Ragdoll,Wrong
+612,Chihuahua,Abyssinian,Wrong
+613,Chihuahua,Chihuahua,Correct
+614,Chihuahua,Chihuahua,Correct
+615,Chihuahua,Chihuahua,Correct
+616,Chihuahua,Chihuahua,Correct
+617,Chihuahua,Chihuahua,Correct
+618,Chihuahua,Chihuahua,Correct
+619,Chihuahua,Miniature pinscher,Wrong
+620,Chihuahua,Chihuahua,Correct
+621,Chihuahua,Abyssinian,Wrong
+622,Chihuahua,Chihuahua,Correct
+623,Chihuahua,Chihuahua,Correct
+624,Chihuahua,Ragdoll,Wrong
+625,Chihuahua,Chihuahua,Correct
+626,Chihuahua,Chihuahua,Correct
+627,Chihuahua,Chihuahua,Correct
+628,Chihuahua,Chihuahua,Correct
+629,Chihuahua,Chihuahua,Correct
+630,Chihuahua,Chihuahua,Correct
+631,Chihuahua,Chihuahua,Correct
+632,Chihuahua,Miniature pinscher,Wrong
+633,Chihuahua,Chihuahua,Correct
+634,Chihuahua,Chihuahua,Correct
+635,Chihuahua,Abyssinian,Wrong
+636,Chihuahua,Pomeranian,Wrong
+637,Chihuahua,American pit bull terrier,Wrong
+638,Chihuahua,Abyssinian,Wrong
+639,Chihuahua,Bengal,Wrong
+640,Chihuahua,Ragdoll,Wrong
+641,Chihuahua,Beagle,Wrong
+642,Chihuahua,Abyssinian,Wrong
+643,Chihuahua,Chihuahua,Correct
+644,Chihuahua,Ragdoll,Wrong
+645,Chihuahua,Chihuahua,Correct
+646,Chihuahua,Chihuahua,Correct
+647,Chihuahua,Abyssinian,Wrong
+648,Chihuahua,Chihuahua,Correct
+649,Chihuahua,Chihuahua,Correct
+650,Chihuahua,Chihuahua,Correct
+651,Chihuahua,Chihuahua,Correct
+652,Chihuahua,Miniature pinscher,Wrong
+653,Chihuahua,Chihuahua,Correct
+654,Chihuahua,Chihuahua,Correct
+655,Chihuahua,Chihuahua,Correct
+656,Chihuahua,Shiba inu,Wrong
+657,Chihuahua,Bombay,Wrong
+658,Chihuahua,Chihuahua,Correct
+659,Chihuahua,Chihuahua,Correct
+660,Chihuahua,Chihuahua,Correct
+661,Egyptian mau,Egyptian mau,Correct
+662,Egyptian mau,Abyssinian,Wrong
+663,Egyptian mau,Abyssinian,Wrong
+664,Egyptian mau,Egyptian mau,Correct
+665,Egyptian mau,Egyptian mau,Correct
+666,Egyptian mau,Egyptian mau,Correct
+667,Egyptian mau,Abyssinian,Wrong
+668,Egyptian mau,Abyssinian,Wrong
+669,Egyptian mau,Egyptian mau,Correct
+670,Egyptian mau,Egyptian mau,Correct
+671,Egyptian mau,Bengal,Wrong
+672,Egyptian mau,Egyptian mau,Correct
+673,Egyptian mau,Egyptian mau,Correct
+674,Egyptian mau,Bengal,Wrong
+675,Egyptian mau,Egyptian mau,Correct
+676,Egyptian mau,Abyssinian,Wrong
+677,Egyptian mau,Abyssinian,Wrong
+678,Egyptian mau,Egyptian mau,Correct
+679,Egyptian mau,Egyptian mau,Correct
+680,Egyptian mau,Egyptian mau,Correct
+681,Egyptian mau,Egyptian mau,Correct
+682,Egyptian mau,Russian blue,Wrong
+683,Egyptian mau,Abyssinian,Wrong
+684,Egyptian mau,Egyptian mau,Correct
+685,Egyptian mau,Egyptian mau,Correct
+686,Egyptian mau,Egyptian mau,Correct
+687,Egyptian mau,Egyptian mau,Correct
+688,Egyptian mau,Egyptian mau,Correct
+689,Egyptian mau,Abyssinian,Wrong
+690,Egyptian mau,Egyptian mau,Correct
+691,Egyptian mau,Egyptian mau,Correct
+692,Egyptian mau,Egyptian mau,Correct
+693,Egyptian mau,Egyptian mau,Correct
+694,Egyptian mau,Egyptian mau,Correct
+695,Egyptian mau,Egyptian mau,Correct
+696,Egyptian mau,Egyptian mau,Correct
+697,Egyptian mau,Egyptian mau,Correct
+698,Egyptian mau,Egyptian mau,Correct
+699,Egyptian mau,Egyptian mau,Correct
+700,Egyptian mau,Abyssinian,Wrong
+701,Egyptian mau,Egyptian mau,Correct
+702,Egyptian mau,Egyptian mau,Correct
+703,Egyptian mau,Abyssinian,Wrong
+704,Egyptian mau,Bombay,Wrong
+705,Egyptian mau,Egyptian mau,Correct
+706,Egyptian mau,Egyptian mau,Correct
+707,Egyptian mau,Egyptian mau,Correct
+708,Egyptian mau,Abyssinian,Wrong
+709,Egyptian mau,Egyptian mau,Correct
+710,Egyptian mau,Egyptian mau,Correct
+711,Egyptian mau,Abyssinian,Wrong
+712,Egyptian mau,Abyssinian,Wrong
+713,Egyptian mau,Egyptian mau,Correct
+714,Egyptian mau,Abyssinian,Wrong
+715,Egyptian mau,Egyptian mau,Correct
+716,Egyptian mau,Egyptian mau,Correct
+717,Egyptian mau,Egyptian mau,Correct
+718,Egyptian mau,British shorthair,Wrong
+719,Egyptian mau,Egyptian mau,Correct
+720,Egyptian mau,Egyptian mau,Correct
+721,English cocker spaniel,Bombay,Wrong
+722,English cocker spaniel,German shorthaired,Wrong
+723,English cocker spaniel,Abyssinian,Wrong
+724,English cocker spaniel,English cocker spaniel,Correct
+725,English cocker spaniel,English cocker spaniel,Correct
+726,English cocker spaniel,English cocker spaniel,Correct
+727,English cocker spaniel,Basset hound,Wrong
+728,English cocker spaniel,Wheaten terrier,Wrong
+729,English cocker spaniel,Wheaten terrier,Wrong
+730,English cocker spaniel,English cocker spaniel,Correct
+731,English cocker spaniel,Japanese chin,Wrong
+732,English cocker spaniel,Staffordshire bull terrier,Wrong
+733,English cocker spaniel,English cocker spaniel,Correct
+734,English cocker spaniel,Keeshond,Wrong
+735,English cocker spaniel,Bombay,Wrong
+736,English cocker spaniel,English cocker spaniel,Correct
+737,English cocker spaniel,Japanese chin,Wrong
+738,English cocker spaniel,Japanese chin,Wrong
+739,English cocker spaniel,Japanese chin,Wrong
+740,English cocker spaniel,Beagle,Wrong
+741,English cocker spaniel,Japanese chin,Wrong
+742,English cocker spaniel,Japanese chin,Wrong
+743,English cocker spaniel,Staffordshire bull terrier,Wrong
+744,English cocker spaniel,Keeshond,Wrong
+745,English cocker spaniel,Newfoundland,Wrong
+746,English cocker spaniel,Bombay,Wrong
+747,English cocker spaniel,Sphynx,Wrong
+748,English cocker spaniel,Bombay,Wrong
+749,English cocker spaniel,Newfoundland,Wrong
+750,English cocker spaniel,English cocker spaniel,Correct
+751,English cocker spaniel,Bombay,Wrong
+752,English cocker spaniel,English cocker spaniel,Correct
+753,English cocker spaniel,Basset hound,Wrong
+754,English cocker spaniel,Bombay,Wrong
+755,English cocker spaniel,English cocker spaniel,Correct
+756,English cocker spaniel,Egyptian mau,Wrong
+757,English cocker spaniel,Japanese chin,Wrong
+758,English cocker spaniel,Japanese chin,Wrong
+759,English cocker spaniel,Egyptian mau,Wrong
+760,English cocker spaniel,Abyssinian,Wrong
+761,English cocker spaniel,Japanese chin,Wrong
+762,English cocker spaniel,Wheaten terrier,Wrong
+763,English cocker spaniel,Great pyrenees,Wrong
+764,English cocker spaniel,English cocker spaniel,Correct
+765,English cocker spaniel,English cocker spaniel,Correct
+766,English cocker spaniel,Japanese chin,Wrong
+767,English cocker spaniel,Keeshond,Wrong
+768,English cocker spaniel,Bengal,Wrong
+769,English cocker spaniel,Wheaten terrier,Wrong
+770,English cocker spaniel,Wheaten terrier,Wrong
+771,English cocker spaniel,American pit bull terrier,Wrong
+772,English cocker spaniel,Leonberger,Wrong
+773,English cocker spaniel,Newfoundland,Wrong
+774,English cocker spaniel,Wheaten terrier,Wrong
+775,English cocker spaniel,Staffordshire bull terrier,Wrong
+776,English cocker spaniel,English cocker spaniel,Correct
+777,English cocker spaniel,Wheaten terrier,Wrong
+778,English cocker spaniel,Leonberger,Wrong
+779,English cocker spaniel,Wheaten terrier,Wrong
+780,English cocker spaniel,Newfoundland,Wrong
+781,English setter,Keeshond,Wrong
+782,English setter,English setter,Correct
+783,English setter,Japanese chin,Wrong
+784,English setter,English setter,Correct
+785,English setter,English setter,Correct
+786,English setter,English setter,Correct
+787,English setter,English setter,Correct
+788,English setter,Japanese chin,Wrong
+789,English setter,English setter,Correct
+790,English setter,English setter,Correct
+791,English setter,English setter,Correct
+792,English setter,English setter,Correct
+793,English setter,English setter,Correct
+794,English setter,Japanese chin,Wrong
+795,English setter,English setter,Correct
+796,English setter,Japanese chin,Wrong
+797,English setter,English setter,Correct
+798,English setter,German shorthaired,Wrong
+799,English setter,English setter,Correct
+800,English setter,English setter,Correct
+801,English setter,Abyssinian,Wrong
+802,English setter,English setter,Correct
+803,English setter,English setter,Correct
+804,English setter,Bengal,Wrong
+805,English setter,Wheaten terrier,Wrong
+806,English setter,Wheaten terrier,Wrong
+807,English setter,English setter,Correct
+808,English setter,English cocker spaniel,Wrong
+809,English setter,Wheaten terrier,Wrong
+810,English setter,Wheaten terrier,Wrong
+811,English setter,English setter,Correct
+812,English setter,English setter,Correct
+813,English setter,English setter,Correct
+814,English setter,English setter,Correct
+815,English setter,English setter,Correct
+816,English setter,German shorthaired,Wrong
+817,English setter,Russian blue,Wrong
+818,English setter,English setter,Correct
+819,English setter,Ragdoll,Wrong
+820,English setter,German shorthaired,Wrong
+821,English setter,Pug,Wrong
+822,English setter,Keeshond,Wrong
+823,English setter,German shorthaired,Wrong
+824,English setter,Basset hound,Wrong
+825,English setter,German shorthaired,Wrong
+826,English setter,English setter,Correct
+827,English setter,Great pyrenees,Wrong
+828,English setter,Great pyrenees,Wrong
+829,English setter,Keeshond,Wrong
+830,English setter,Saint bernard,Wrong
+831,English setter,English setter,Correct
+832,English setter,English setter,Correct
+833,English setter,English setter,Correct
+834,English setter,Saint bernard,Wrong
+835,English setter,English setter,Correct
+836,English setter,Great pyrenees,Wrong
+837,English setter,Great pyrenees,Wrong
+838,English setter,Keeshond,Wrong
+839,English setter,English setter,Correct
+840,English setter,English setter,Correct
+841,German shorthaired,German shorthaired,Correct
+842,German shorthaired,Miniature pinscher,Wrong
+843,German shorthaired,American pit bull terrier,Wrong
+844,German shorthaired,German shorthaired,Correct
+845,German shorthaired,German shorthaired,Correct
+846,German shorthaired,Miniature pinscher,Wrong
+847,German shorthaired,Bombay,Wrong
+848,German shorthaired,German shorthaired,Correct
+849,German shorthaired,German shorthaired,Correct
+850,German shorthaired,German shorthaired,Correct
+851,German shorthaired,German shorthaired,Correct
+852,German shorthaired,German shorthaired,Correct
+853,German shorthaired,German shorthaired,Correct
+854,German shorthaired,Staffordshire bull terrier,Wrong
+855,German shorthaired,German shorthaired,Correct
+856,German shorthaired,German shorthaired,Correct
+857,German shorthaired,German shorthaired,Correct
+858,German shorthaired,German shorthaired,Correct
+859,German shorthaired,German shorthaired,Correct
+860,German shorthaired,Staffordshire bull terrier,Wrong
+861,German shorthaired,German shorthaired,Correct
+862,German shorthaired,Bombay,Wrong
+863,German shorthaired,Abyssinian,Wrong
+864,German shorthaired,British shorthair,Wrong
+865,German shorthaired,German shorthaired,Correct
+866,German shorthaired,Basset hound,Wrong
+867,German shorthaired,German shorthaired,Correct
+868,German shorthaired,Bombay,Wrong
+869,German shorthaired,German shorthaired,Correct
+870,German shorthaired,German shorthaired,Correct
+871,German shorthaired,English setter,Wrong
+872,German shorthaired,German shorthaired,Correct
+873,German shorthaired,German shorthaired,Correct
+874,German shorthaired,Staffordshire bull terrier,Wrong
+875,German shorthaired,Basset hound,Wrong
+876,German shorthaired,Abyssinian,Wrong
+877,German shorthaired,German shorthaired,Correct
+878,German shorthaired,American pit bull terrier,Wrong
+879,German shorthaired,German shorthaired,Correct
+880,German shorthaired,German shorthaired,Correct
+881,German shorthaired,German shorthaired,Correct
+882,German shorthaired,German shorthaired,Correct
+883,German shorthaired,Bombay,Wrong
+884,German shorthaired,American pit bull terrier,Wrong
+885,German shorthaired,Bombay,Wrong
+886,German shorthaired,Abyssinian,Wrong
+887,German shorthaired,German shorthaired,Correct
+888,German shorthaired,German shorthaired,Correct
+889,German shorthaired,German shorthaired,Correct
+890,German shorthaired,German shorthaired,Correct
+891,German shorthaired,Bombay,Wrong
+892,German shorthaired,German shorthaired,Correct
+893,German shorthaired,German shorthaired,Correct
+894,German shorthaired,Bombay,Wrong
+895,German shorthaired,German shorthaired,Correct
+896,German shorthaired,German shorthaired,Correct
+897,German shorthaired,German shorthaired,Correct
+898,German shorthaired,Bombay,Wrong
+899,German shorthaired,German shorthaired,Correct
+900,German shorthaired,German shorthaired,Correct
+901,Great pyrenees,Great pyrenees,Correct
+902,Great pyrenees,Great pyrenees,Correct
+903,Great pyrenees,Great pyrenees,Correct
+904,Great pyrenees,Great pyrenees,Correct
+905,Great pyrenees,Great pyrenees,Correct
+906,Great pyrenees,Great pyrenees,Correct
+907,Great pyrenees,Great pyrenees,Correct
+908,Great pyrenees,Great pyrenees,Correct
+909,Great pyrenees,Great pyrenees,Correct
+910,Great pyrenees,Great pyrenees,Correct
+911,Great pyrenees,Great pyrenees,Correct
+912,Great pyrenees,Great pyrenees,Correct
+913,Great pyrenees,Great pyrenees,Correct
+914,Great pyrenees,Samoyed,Wrong
+915,Great pyrenees,Great pyrenees,Correct
+916,Great pyrenees,Great pyrenees,Correct
+917,Great pyrenees,Keeshond,Wrong
+918,Great pyrenees,Great pyrenees,Correct
+919,Great pyrenees,Great pyrenees,Correct
+920,Great pyrenees,Great pyrenees,Correct
+921,Great pyrenees,Great pyrenees,Correct
+922,Great pyrenees,Samoyed,Wrong
+923,Great pyrenees,Great pyrenees,Correct
+924,Great pyrenees,Samoyed,Wrong
+925,Great pyrenees,Great pyrenees,Correct
+926,Great pyrenees,Great pyrenees,Correct
+927,Great pyrenees,Great pyrenees,Correct
+928,Great pyrenees,Samoyed,Wrong
+929,Great pyrenees,Great pyrenees,Correct
+930,Great pyrenees,Great pyrenees,Correct
+931,Great pyrenees,Great pyrenees,Correct
+932,Great pyrenees,Russian blue,Wrong
+933,Great pyrenees,Great pyrenees,Correct
+934,Great pyrenees,Great pyrenees,Correct
+935,Great pyrenees,Great pyrenees,Correct
+936,Great pyrenees,Samoyed,Wrong
+937,Great pyrenees,Pomeranian,Wrong
+938,Great pyrenees,Great pyrenees,Correct
+939,Great pyrenees,Great pyrenees,Correct
+940,Great pyrenees,Great pyrenees,Correct
+941,Great pyrenees,Great pyrenees,Correct
+942,Great pyrenees,Samoyed,Wrong
+943,Great pyrenees,Great pyrenees,Correct
+944,Great pyrenees,Samoyed,Wrong
+945,Great pyrenees,Samoyed,Wrong
+946,Great pyrenees,Keeshond,Wrong
+947,Great pyrenees,Great pyrenees,Correct
+948,Great pyrenees,Great pyrenees,Correct
+949,Great pyrenees,Great pyrenees,Correct
+950,Great pyrenees,Great pyrenees,Correct
+951,Great pyrenees,Great pyrenees,Correct
+952,Great pyrenees,Great pyrenees,Correct
+953,Great pyrenees,Great pyrenees,Correct
+954,Great pyrenees,Keeshond,Wrong
+955,Great pyrenees,Persian,Wrong
+956,Great pyrenees,Great pyrenees,Correct
+957,Great pyrenees,Great pyrenees,Correct
+958,Great pyrenees,Great pyrenees,Correct
+959,Great pyrenees,Great pyrenees,Correct
+960,Great pyrenees,Great pyrenees,Correct
+961,Havanese,Havanese,Correct
+962,Havanese,Havanese,Correct
+963,Havanese,Havanese,Correct
+964,Havanese,Newfoundland,Wrong
+965,Havanese,Newfoundland,Wrong
+966,Havanese,Newfoundland,Wrong
+967,Havanese,Japanese chin,Wrong
+968,Havanese,Keeshond,Wrong
+969,Havanese,Bombay,Wrong
+970,Havanese,Staffordshire bull terrier,Wrong
+971,Havanese,Keeshond,Wrong
+972,Havanese,Staffordshire bull terrier,Wrong
+973,Havanese,Bombay,Wrong
+974,Havanese,Havanese,Correct
+975,Havanese,Havanese,Correct
+976,Havanese,Ragdoll,Wrong
+977,Havanese,Havanese,Correct
+978,Havanese,Keeshond,Wrong
+979,Havanese,Havanese,Correct
+980,Havanese,Keeshond,Wrong
+981,Havanese,Havanese,Correct
+982,Havanese,Havanese,Correct
+983,Havanese,Havanese,Correct
+984,Havanese,Scottish terrier,Wrong
+985,Havanese,Havanese,Correct
+986,Havanese,Wheaten terrier,Wrong
+987,Havanese,Havanese,Correct
+988,Havanese,Pug,Wrong
+989,Havanese,Newfoundland,Wrong
+990,Havanese,Keeshond,Wrong
+991,Havanese,Keeshond,Wrong
+992,Havanese,Havanese,Correct
+993,Havanese,Wheaten terrier,Wrong
+994,Havanese,Havanese,Correct
+995,Havanese,Wheaten terrier,Wrong
+996,Havanese,Newfoundland,Wrong
+997,Havanese,Havanese,Correct
+998,Havanese,Havanese,Correct
+999,Havanese,Keeshond,Wrong
+1000,Havanese,Havanese,Correct
+1001,Havanese,Keeshond,Wrong
+1002,Havanese,Ragdoll,Wrong
+1003,Havanese,Havanese,Correct
+1004,Havanese,Keeshond,Wrong
+1005,Havanese,Keeshond,Wrong
+1006,Havanese,Leonberger,Wrong
+1007,Havanese,Wheaten terrier,Wrong
+1008,Havanese,Havanese,Correct
+1009,Havanese,Newfoundland,Wrong
+1010,Havanese,Havanese,Correct
+1011,Havanese,Newfoundland,Wrong
+1012,Havanese,Havanese,Correct
+1013,Havanese,Havanese,Correct
+1014,Havanese,Havanese,Correct
+1015,Havanese,Havanese,Correct
+1016,Havanese,Havanese,Correct
+1017,Havanese,Havanese,Correct
+1018,Havanese,Newfoundland,Wrong
+1019,Havanese,British shorthair,Wrong
+1020,Havanese,Havanese,Correct
+1021,Japanese chin,Japanese chin,Correct
+1022,Japanese chin,Japanese chin,Correct
+1023,Japanese chin,Japanese chin,Correct
+1024,Japanese chin,Japanese chin,Correct
+1025,Japanese chin,Japanese chin,Correct
+1026,Japanese chin,Abyssinian,Wrong
+1027,Japanese chin,Japanese chin,Correct
+1028,Japanese chin,Japanese chin,Correct
+1029,Japanese chin,Japanese chin,Correct
+1030,Japanese chin,Japanese chin,Correct
+1031,Japanese chin,Japanese chin,Correct
+1032,Japanese chin,Japanese chin,Correct
+1033,Japanese chin,Japanese chin,Correct
+1034,Japanese chin,Persian,Wrong
+1035,Japanese chin,Japanese chin,Correct
+1036,Japanese chin,Maine coon,Wrong
+1037,Japanese chin,Keeshond,Wrong
+1038,Japanese chin,Japanese chin,Correct
+1039,Japanese chin,Japanese chin,Correct
+1040,Japanese chin,Japanese chin,Correct
+1041,Japanese chin,Japanese chin,Correct
+1042,Japanese chin,Japanese chin,Correct
+1043,Japanese chin,Japanese chin,Correct
+1044,Japanese chin,Japanese chin,Correct
+1045,Japanese chin,Japanese chin,Correct
+1046,Japanese chin,Japanese chin,Correct
+1047,Japanese chin,Japanese chin,Correct
+1048,Japanese chin,Japanese chin,Correct
+1049,Japanese chin,Japanese chin,Correct
+1050,Japanese chin,Japanese chin,Correct
+1051,Japanese chin,Japanese chin,Correct
+1052,Japanese chin,Japanese chin,Correct
+1053,Japanese chin,Keeshond,Wrong
+1054,Japanese chin,Japanese chin,Correct
+1055,Japanese chin,Japanese chin,Correct
+1056,Japanese chin,Japanese chin,Correct
+1057,Japanese chin,Japanese chin,Correct
+1058,Japanese chin,Japanese chin,Correct
+1059,Japanese chin,Japanese chin,Correct
+1060,Japanese chin,Japanese chin,Correct
+1061,Japanese chin,Japanese chin,Correct
+1062,Japanese chin,Japanese chin,Correct
+1063,Japanese chin,Japanese chin,Correct
+1064,Japanese chin,Japanese chin,Correct
+1065,Japanese chin,Japanese chin,Correct
+1066,Japanese chin,Japanese chin,Correct
+1067,Japanese chin,Japanese chin,Correct
+1068,Japanese chin,Japanese chin,Correct
+1069,Japanese chin,Japanese chin,Correct
+1070,Japanese chin,Japanese chin,Correct
+1071,Japanese chin,Japanese chin,Correct
+1072,Japanese chin,Japanese chin,Correct
+1073,Japanese chin,Pomeranian,Wrong
+1074,Japanese chin,Japanese chin,Correct
+1075,Japanese chin,Japanese chin,Correct
+1076,Japanese chin,Keeshond,Wrong
+1077,Japanese chin,Japanese chin,Correct
+1078,Japanese chin,Newfoundland,Wrong
+1079,Japanese chin,Japanese chin,Correct
+1080,Japanese chin,Japanese chin,Correct
+1081,Keeshond,Keeshond,Correct
+1082,Keeshond,Leonberger,Wrong
+1083,Keeshond,Keeshond,Correct
+1084,Keeshond,Keeshond,Correct
+1085,Keeshond,Keeshond,Correct
+1086,Keeshond,Keeshond,Correct
+1087,Keeshond,Keeshond,Correct
+1088,Keeshond,Keeshond,Correct
+1089,Keeshond,Keeshond,Correct
+1090,Keeshond,Keeshond,Correct
+1091,Keeshond,Keeshond,Correct
+1092,Keeshond,Keeshond,Correct
+1093,Keeshond,Keeshond,Correct
+1094,Keeshond,Keeshond,Correct
+1095,Keeshond,Bombay,Wrong
+1096,Keeshond,Keeshond,Correct
+1097,Keeshond,Keeshond,Correct
+1098,Keeshond,Keeshond,Correct
+1099,Keeshond,Keeshond,Correct
+1100,Keeshond,Keeshond,Correct
+1101,Keeshond,Keeshond,Correct
+1102,Keeshond,Keeshond,Correct
+1103,Keeshond,Keeshond,Correct
+1104,Keeshond,Keeshond,Correct
+1105,Keeshond,Keeshond,Correct
+1106,Keeshond,Bombay,Wrong
+1107,Keeshond,Keeshond,Correct
+1108,Keeshond,Keeshond,Correct
+1109,Keeshond,Keeshond,Correct
+1110,Keeshond,Keeshond,Correct
+1111,Keeshond,Keeshond,Correct
+1112,Keeshond,Keeshond,Correct
+1113,Keeshond,Keeshond,Correct
+1114,Keeshond,Keeshond,Correct
+1115,Keeshond,Keeshond,Correct
+1116,Keeshond,Keeshond,Correct
+1117,Keeshond,Keeshond,Correct
+1118,Keeshond,Keeshond,Correct
+1119,Keeshond,Persian,Wrong
+1120,Keeshond,Keeshond,Correct
+1121,Keeshond,Keeshond,Correct
+1122,Keeshond,Keeshond,Correct
+1123,Keeshond,Keeshond,Correct
+1124,Keeshond,Keeshond,Correct
+1125,Keeshond,Keeshond,Correct
+1126,Keeshond,Abyssinian,Wrong
+1127,Keeshond,Keeshond,Correct
+1128,Keeshond,Keeshond,Correct
+1129,Keeshond,Keeshond,Correct
+1130,Keeshond,Keeshond,Correct
+1131,Keeshond,Keeshond,Correct
+1132,Keeshond,Keeshond,Correct
+1133,Keeshond,Keeshond,Correct
+1134,Keeshond,Keeshond,Correct
+1135,Keeshond,Keeshond,Correct
+1136,Keeshond,Keeshond,Correct
+1137,Keeshond,Keeshond,Correct
+1138,Keeshond,Keeshond,Correct
+1139,Keeshond,Keeshond,Correct
+1140,Keeshond,Keeshond,Correct
+1141,Leonberger,Keeshond,Wrong
+1142,Leonberger,Leonberger,Correct
+1143,Leonberger,Keeshond,Wrong
+1144,Leonberger,Keeshond,Wrong
+1145,Leonberger,Leonberger,Correct
+1146,Leonberger,Leonberger,Correct
+1147,Leonberger,Abyssinian,Wrong
+1148,Leonberger,Abyssinian,Wrong
+1149,Leonberger,Leonberger,Correct
+1150,Leonberger,Staffordshire bull terrier,Wrong
+1151,Leonberger,Leonberger,Correct
+1152,Leonberger,Leonberger,Correct
+1153,Leonberger,Leonberger,Correct
+1154,Leonberger,Keeshond,Wrong
+1155,Leonberger,Keeshond,Wrong
+1156,Leonberger,Leonberger,Correct
+1157,Leonberger,Leonberger,Correct
+1158,Leonberger,Keeshond,Wrong
+1159,Leonberger,Leonberger,Correct
+1160,Leonberger,Leonberger,Correct
+1161,Leonberger,Leonberger,Correct
+1162,Leonberger,Newfoundland,Wrong
+1163,Leonberger,Leonberger,Correct
+1164,Leonberger,Leonberger,Correct
+1165,Leonberger,Leonberger,Correct
+1166,Leonberger,Leonberger,Correct
+1167,Leonberger,Abyssinian,Wrong
+1168,Leonberger,Keeshond,Wrong
+1169,Leonberger,Leonberger,Correct
+1170,Leonberger,Leonberger,Correct
+1171,Leonberger,Leonberger,Correct
+1172,Leonberger,Keeshond,Wrong
+1173,Leonberger,Leonberger,Correct
+1174,Leonberger,Newfoundland,Wrong
+1175,Leonberger,Keeshond,Wrong
+1176,Leonberger,Keeshond,Wrong
+1177,Leonberger,Keeshond,Wrong
+1178,Leonberger,Leonberger,Correct
+1179,Leonberger,Leonberger,Correct
+1180,Leonberger,Pug,Wrong
+1181,Leonberger,Abyssinian,Wrong
+1182,Leonberger,Leonberger,Correct
+1183,Leonberger,Newfoundland,Wrong
+1184,Leonberger,Leonberger,Correct
+1185,Leonberger,Keeshond,Wrong
+1186,Leonberger,Leonberger,Correct
+1187,Leonberger,Leonberger,Correct
+1188,Leonberger,Keeshond,Wrong
+1189,Leonberger,Leonberger,Correct
+1190,Leonberger,Keeshond,Wrong
+1191,Leonberger,Keeshond,Wrong
+1192,Leonberger,Keeshond,Wrong
+1193,Leonberger,Newfoundland,Wrong
+1194,Leonberger,Leonberger,Correct
+1195,Leonberger,Keeshond,Wrong
+1196,Leonberger,Leonberger,Correct
+1197,Leonberger,Leonberger,Correct
+1198,Leonberger,Leonberger,Correct
+1199,Leonberger,Leonberger,Correct
+1200,Leonberger,Leonberger,Correct
+1201,Maine coon,Maine coon,Correct
+1202,Maine coon,Abyssinian,Wrong
+1203,Maine coon,Abyssinian,Wrong
+1204,Maine coon,Abyssinian,Wrong
+1205,Maine coon,Maine coon,Correct
+1206,Maine coon,Maine coon,Correct
+1207,Maine coon,Abyssinian,Wrong
+1208,Maine coon,Maine coon,Correct
+1209,Maine coon,Maine coon,Correct
+1210,Maine coon,Maine coon,Correct
+1211,Maine coon,Maine coon,Correct
+1212,Maine coon,Maine coon,Correct
+1213,Maine coon,Maine coon,Correct
+1214,Maine coon,Ragdoll,Wrong
+1215,Maine coon,Keeshond,Wrong
+1216,Maine coon,Maine coon,Correct
+1217,Maine coon,Maine coon,Correct
+1218,Maine coon,Maine coon,Correct
+1219,Maine coon,Maine coon,Correct
+1220,Maine coon,Maine coon,Correct
+1221,Maine coon,Maine coon,Correct
+1222,Maine coon,Maine coon,Correct
+1223,Maine coon,Maine coon,Correct
+1224,Maine coon,Maine coon,Correct
+1225,Maine coon,Maine coon,Correct
+1226,Maine coon,Maine coon,Correct
+1227,Maine coon,Abyssinian,Wrong
+1228,Maine coon,Abyssinian,Wrong
+1229,Maine coon,British shorthair,Wrong
+1230,Maine coon,Maine coon,Correct
+1231,Maine coon,Abyssinian,Wrong
+1232,Maine coon,Persian,Wrong
+1233,Maine coon,Maine coon,Correct
+1234,Maine coon,Abyssinian,Wrong
+1235,Maine coon,Abyssinian,Wrong
+1236,Maine coon,Abyssinian,Wrong
+1237,Maine coon,Abyssinian,Wrong
+1238,Maine coon,British shorthair,Wrong
+1239,Maine coon,Persian,Wrong
+1240,Maine coon,Persian,Wrong
+1241,Maine coon,Maine coon,Correct
+1242,Maine coon,Abyssinian,Wrong
+1243,Maine coon,Ragdoll,Wrong
+1244,Maine coon,Abyssinian,Wrong
+1245,Maine coon,Abyssinian,Wrong
+1246,Maine coon,Egyptian mau,Wrong
+1247,Maine coon,Bombay,Wrong
+1248,Maine coon,Abyssinian,Wrong
+1249,Maine coon,Abyssinian,Wrong
+1250,Maine coon,Ragdoll,Wrong
+1251,Maine coon,Abyssinian,Wrong
+1252,Maine coon,Maine coon,Correct
+1253,Maine coon,Maine coon,Correct
+1254,Maine coon,Maine coon,Correct
+1255,Maine coon,Abyssinian,Wrong
+1256,Maine coon,Ragdoll,Wrong
+1257,Maine coon,Maine coon,Correct
+1258,Maine coon,Egyptian mau,Wrong
+1259,Maine coon,Maine coon,Correct
+1260,Maine coon,Maine coon,Correct
+1261,Miniature pinscher,American pit bull terrier,Wrong
+1262,Miniature pinscher,Miniature pinscher,Correct
+1263,Miniature pinscher,Abyssinian,Wrong
+1264,Miniature pinscher,Miniature pinscher,Correct
+1265,Miniature pinscher,Abyssinian,Wrong
+1266,Miniature pinscher,Bombay,Wrong
+1267,Miniature pinscher,Miniature pinscher,Correct
+1268,Miniature pinscher,Abyssinian,Wrong
+1269,Miniature pinscher,Miniature pinscher,Correct
+1270,Miniature pinscher,Abyssinian,Wrong
+1271,Miniature pinscher,Miniature pinscher,Correct
+1272,Miniature pinscher,Abyssinian,Wrong
+1273,Miniature pinscher,Abyssinian,Wrong
+1274,Miniature pinscher,Miniature pinscher,Correct
+1275,Miniature pinscher,Miniature pinscher,Correct
+1276,Miniature pinscher,Miniature pinscher,Correct
+1277,Miniature pinscher,Miniature pinscher,Correct
+1278,Miniature pinscher,Miniature pinscher,Correct
+1279,Miniature pinscher,Abyssinian,Wrong
+1280,Miniature pinscher,Miniature pinscher,Correct
+1281,Miniature pinscher,Miniature pinscher,Correct
+1282,Miniature pinscher,Abyssinian,Wrong
+1283,Miniature pinscher,Beagle,Wrong
+1284,Miniature pinscher,Miniature pinscher,Correct
+1285,Miniature pinscher,Miniature pinscher,Correct
+1286,Miniature pinscher,Abyssinian,Wrong
+1287,Miniature pinscher,Abyssinian,Wrong
+1288,Miniature pinscher,Siamese,Wrong
+1289,Miniature pinscher,Miniature pinscher,Correct
+1290,Miniature pinscher,Abyssinian,Wrong
+1291,Miniature pinscher,Siamese,Wrong
+1292,Miniature pinscher,Miniature pinscher,Correct
+1293,Miniature pinscher,Miniature pinscher,Correct
+1294,Miniature pinscher,Chihuahua,Wrong
+1295,Miniature pinscher,Miniature pinscher,Correct
+1296,Miniature pinscher,German shorthaired,Wrong
+1297,Miniature pinscher,Miniature pinscher,Correct
+1298,Miniature pinscher,Miniature pinscher,Correct
+1299,Miniature pinscher,Miniature pinscher,Correct
+1300,Miniature pinscher,Miniature pinscher,Correct
+1301,Miniature pinscher,Bengal,Wrong
+1302,Miniature pinscher,Chihuahua,Wrong
+1303,Miniature pinscher,Staffordshire bull terrier,Wrong
+1304,Miniature pinscher,Chihuahua,Wrong
+1305,Miniature pinscher,Miniature pinscher,Correct
+1306,Miniature pinscher,Bombay,Wrong
+1307,Miniature pinscher,Miniature pinscher,Correct
+1308,Miniature pinscher,Staffordshire bull terrier,Wrong
+1309,Miniature pinscher,Miniature pinscher,Correct
+1310,Miniature pinscher,Beagle,Wrong
+1311,Miniature pinscher,Miniature pinscher,Correct
+1312,Miniature pinscher,Siamese,Wrong
+1313,Miniature pinscher,Miniature pinscher,Correct
+1314,Miniature pinscher,Bengal,Wrong
+1315,Miniature pinscher,American pit bull terrier,Wrong
+1316,Miniature pinscher,Miniature pinscher,Correct
+1317,Miniature pinscher,Abyssinian,Wrong
+1318,Miniature pinscher,Siamese,Wrong
+1319,Miniature pinscher,Miniature pinscher,Correct
+1320,Miniature pinscher,Miniature pinscher,Correct
+1321,Newfoundland,Newfoundland,Correct
+1322,Newfoundland,Newfoundland,Correct
+1323,Newfoundland,Newfoundland,Correct
+1324,Newfoundland,Newfoundland,Correct
+1325,Newfoundland,Newfoundland,Correct
+1326,Newfoundland,Leonberger,Wrong
+1327,Newfoundland,Newfoundland,Correct
+1328,Newfoundland,Bombay,Wrong
+1329,Newfoundland,Newfoundland,Correct
+1330,Newfoundland,Newfoundland,Correct
+1331,Newfoundland,Newfoundland,Correct
+1332,Newfoundland,Newfoundland,Correct
+1333,Newfoundland,Bombay,Wrong
+1334,Newfoundland,Newfoundland,Correct
+1335,Newfoundland,Newfoundland,Correct
+1336,Newfoundland,Newfoundland,Correct
+1337,Newfoundland,Newfoundland,Correct
+1338,Newfoundland,Newfoundland,Correct
+1339,Newfoundland,Newfoundland,Correct
+1340,Newfoundland,Bombay,Wrong
+1341,Newfoundland,Bombay,Wrong
+1342,Newfoundland,Newfoundland,Correct
+1343,Newfoundland,Leonberger,Wrong
+1344,Newfoundland,Abyssinian,Wrong
+1345,Newfoundland,Leonberger,Wrong
+1346,Newfoundland,Newfoundland,Correct
+1347,Newfoundland,Abyssinian,Wrong
+1348,Newfoundland,Newfoundland,Correct
+1349,Newfoundland,Keeshond,Wrong
+1350,Newfoundland,Newfoundland,Correct
+1351,Newfoundland,Newfoundland,Correct
+1352,Newfoundland,Newfoundland,Correct
+1353,Newfoundland,Newfoundland,Correct
+1354,Newfoundland,German shorthaired,Wrong
+1355,Newfoundland,Newfoundland,Correct
+1356,Newfoundland,Newfoundland,Correct
+1357,Newfoundland,Newfoundland,Correct
+1358,Newfoundland,Newfoundland,Correct
+1359,Newfoundland,Keeshond,Wrong
+1360,Newfoundland,Newfoundland,Correct
+1361,Newfoundland,Newfoundland,Correct
+1362,Newfoundland,Newfoundland,Correct
+1363,Newfoundland,Newfoundland,Correct
+1364,Newfoundland,Newfoundland,Correct
+1365,Newfoundland,Newfoundland,Correct
+1366,Newfoundland,German shorthaired,Wrong
+1367,Newfoundland,Keeshond,Wrong
+1368,Newfoundland,Newfoundland,Correct
+1369,Newfoundland,Newfoundland,Correct
+1370,Newfoundland,Newfoundland,Correct
+1371,Newfoundland,Newfoundland,Correct
+1372,Newfoundland,Bombay,Wrong
+1373,Newfoundland,Newfoundland,Correct
+1374,Newfoundland,Newfoundland,Correct
+1375,Newfoundland,Newfoundland,Correct
+1376,Newfoundland,Keeshond,Wrong
+1377,Newfoundland,Keeshond,Wrong
+1378,Newfoundland,Keeshond,Wrong
+1379,Newfoundland,Newfoundland,Correct
+1380,Newfoundland,Bombay,Wrong
+1381,Persian,Persian,Correct
+1382,Persian,Abyssinian,Wrong
+1383,Persian,Abyssinian,Wrong
+1384,Persian,Persian,Correct
+1385,Persian,British shorthair,Wrong
+1386,Persian,Persian,Correct
+1387,Persian,British shorthair,Wrong
+1388,Persian,British shorthair,Wrong
+1389,Persian,Persian,Correct
+1390,Persian,Abyssinian,Wrong
+1391,Persian,Persian,Correct
+1392,Persian,Persian,Correct
+1393,Persian,Persian,Correct
+1394,Persian,Persian,Correct
+1395,Persian,Persian,Correct
+1396,Persian,Persian,Correct
+1397,Persian,Persian,Correct
+1398,Persian,Persian,Correct
+1399,Persian,Persian,Correct
+1400,Persian,Persian,Correct
+1401,Persian,Persian,Correct
+1402,Persian,Persian,Correct
+1403,Persian,Persian,Correct
+1404,Persian,Persian,Correct
+1405,Persian,Persian,Correct
+1406,Persian,Abyssinian,Wrong
+1407,Persian,Persian,Correct
+1408,Persian,Persian,Correct
+1409,Persian,Persian,Correct
+1410,Persian,British shorthair,Wrong
+1411,Persian,Persian,Correct
+1412,Persian,Persian,Correct
+1413,Persian,Persian,Correct
+1414,Persian,Persian,Correct
+1415,Persian,Persian,Correct
+1416,Persian,Persian,Correct
+1417,Persian,Ragdoll,Wrong
+1418,Persian,Abyssinian,Wrong
+1419,Persian,Wheaten terrier,Wrong
+1420,Persian,Ragdoll,Wrong
+1421,Persian,Abyssinian,Wrong
+1422,Persian,British shorthair,Wrong
+1423,Persian,British shorthair,Wrong
+1424,Persian,Persian,Correct
+1425,Persian,Persian,Correct
+1426,Persian,Ragdoll,Wrong
+1427,Persian,Persian,Correct
+1428,Persian,Ragdoll,Wrong
+1429,Persian,Ragdoll,Wrong
+1430,Persian,Persian,Correct
+1431,Persian,Persian,Correct
+1432,Persian,Persian,Correct
+1433,Persian,Ragdoll,Wrong
+1434,Persian,Persian,Correct
+1435,Persian,Persian,Correct
+1436,Persian,Abyssinian,Wrong
+1437,Persian,Ragdoll,Wrong
+1438,Persian,Persian,Correct
+1439,Persian,Maine coon,Wrong
+1440,Persian,Ragdoll,Wrong
+1441,Pomeranian,Pomeranian,Correct
+1442,Pomeranian,Pomeranian,Correct
+1443,Pomeranian,Pomeranian,Correct
+1444,Pomeranian,Pomeranian,Correct
+1445,Pomeranian,Pomeranian,Correct
+1446,Pomeranian,Pomeranian,Correct
+1447,Pomeranian,Chihuahua,Wrong
+1448,Pomeranian,Pomeranian,Correct
+1449,Pomeranian,Pomeranian,Correct
+1450,Pomeranian,Pomeranian,Correct
+1451,Pomeranian,Pomeranian,Correct
+1452,Pomeranian,Abyssinian,Wrong
+1453,Pomeranian,Keeshond,Wrong
+1454,Pomeranian,Pomeranian,Correct
+1455,Pomeranian,Pomeranian,Correct
+1456,Pomeranian,Pomeranian,Correct
+1457,Pomeranian,Pomeranian,Correct
+1458,Pomeranian,Pomeranian,Correct
+1459,Pomeranian,Pomeranian,Correct
+1460,Pomeranian,Pomeranian,Correct
+1461,Pomeranian,Bombay,Wrong
+1462,Pomeranian,Pomeranian,Correct
+1463,Pomeranian,Pomeranian,Correct
+1464,Pomeranian,Pomeranian,Correct
+1465,Pomeranian,Keeshond,Wrong
+1466,Pomeranian,Pomeranian,Correct
+1467,Pomeranian,Pomeranian,Correct
+1468,Pomeranian,Pomeranian,Correct
+1469,Pomeranian,Pomeranian,Correct
+1470,Pomeranian,Pomeranian,Correct
+1471,Pomeranian,Pomeranian,Correct
+1472,Pomeranian,Pomeranian,Correct
+1473,Pomeranian,Pomeranian,Correct
+1474,Pomeranian,Keeshond,Wrong
+1475,Pomeranian,Pomeranian,Correct
+1476,Pomeranian,Pomeranian,Correct
+1477,Pomeranian,Pomeranian,Correct
+1478,Pomeranian,Pomeranian,Correct
+1479,Pomeranian,Pomeranian,Correct
+1480,Pomeranian,Pomeranian,Correct
+1481,Pomeranian,Pomeranian,Correct
+1482,Pomeranian,Pomeranian,Correct
+1483,Pomeranian,Pomeranian,Correct
+1484,Pomeranian,Pomeranian,Correct
+1485,Pomeranian,Keeshond,Wrong
+1486,Pomeranian,Pomeranian,Correct
+1487,Pomeranian,Pomeranian,Correct
+1488,Pomeranian,Pomeranian,Correct
+1489,Pomeranian,Keeshond,Wrong
+1490,Pomeranian,Pomeranian,Correct
+1491,Pomeranian,Keeshond,Wrong
+1492,Pomeranian,Pomeranian,Correct
+1493,Pomeranian,Pomeranian,Correct
+1494,Pomeranian,Pomeranian,Correct
+1495,Pomeranian,Pomeranian,Correct
+1496,Pomeranian,Pomeranian,Correct
+1497,Pomeranian,Pomeranian,Correct
+1498,Pomeranian,Pomeranian,Correct
+1499,Pomeranian,Shiba inu,Wrong
+1500,Pomeranian,Pomeranian,Correct
+1501,Pug,Pug,Correct
+1502,Pug,Pug,Correct
+1503,Pug,Pug,Correct
+1504,Pug,Pug,Correct
+1505,Pug,Pug,Correct
+1506,Pug,Pug,Correct
+1507,Pug,Pug,Correct
+1508,Pug,Pug,Correct
+1509,Pug,Pug,Correct
+1510,Pug,Pug,Correct
+1511,Pug,Pug,Correct
+1512,Pug,Pug,Correct
+1513,Pug,Pug,Correct
+1514,Pug,Bombay,Wrong
+1515,Pug,Boxer,Wrong
+1516,Pug,Pug,Correct
+1517,Pug,Pug,Correct
+1518,Pug,Pug,Correct
+1519,Pug,Pug,Correct
+1520,Pug,Staffordshire bull terrier,Wrong
+1521,Pug,Pug,Correct
+1522,Pug,Pug,Correct
+1523,Pug,Pug,Correct
+1524,Pug,Pug,Correct
+1525,Pug,Pug,Correct
+1526,Pug,Siamese,Wrong
+1527,Pug,Pug,Correct
+1528,Pug,Pug,Correct
+1529,Pug,Pug,Correct
+1530,Pug,Pug,Correct
+1531,Pug,Pug,Correct
+1532,Pug,Pug,Correct
+1533,Pug,Pug,Correct
+1534,Pug,Pug,Correct
+1535,Pug,Pug,Correct
+1536,Pug,Newfoundland,Wrong
+1537,Pug,Pug,Correct
+1538,Pug,Pug,Correct
+1539,Pug,Pug,Correct
+1540,Pug,Pug,Correct
+1541,Pug,Pug,Correct
+1542,Pug,Newfoundland,Wrong
+1543,Pug,Pug,Correct
+1544,Pug,Pug,Correct
+1545,Pug,Pug,Correct
+1546,Pug,Staffordshire bull terrier,Wrong
+1547,Pug,Bombay,Wrong
+1548,Pug,Pug,Correct
+1549,Pug,Pug,Correct
+1550,Pug,Bombay,Wrong
+1551,Pug,Pug,Correct
+1552,Pug,Pug,Correct
+1553,Pug,Pug,Correct
+1554,Pug,Pug,Correct
+1555,Pug,Pug,Correct
+1556,Pug,Pug,Correct
+1557,Pug,Pug,Correct
+1558,Pug,Pug,Correct
+1559,Pug,Pug,Correct
+1560,Pug,Pug,Correct
+1561,Ragdoll,Ragdoll,Correct
+1562,Ragdoll,Ragdoll,Correct
+1563,Ragdoll,Birman,Wrong
+1564,Ragdoll,Birman,Wrong
+1565,Ragdoll,Ragdoll,Correct
+1566,Ragdoll,Ragdoll,Correct
+1567,Ragdoll,Ragdoll,Correct
+1568,Ragdoll,Ragdoll,Correct
+1569,Ragdoll,Ragdoll,Correct
+1570,Ragdoll,Ragdoll,Correct
+1571,Ragdoll,Ragdoll,Correct
+1572,Ragdoll,Persian,Wrong
+1573,Ragdoll,Ragdoll,Correct
+1574,Ragdoll,Ragdoll,Correct
+1575,Ragdoll,Birman,Wrong
+1576,Ragdoll,Ragdoll,Correct
+1577,Ragdoll,Ragdoll,Correct
+1578,Ragdoll,Ragdoll,Correct
+1579,Ragdoll,Abyssinian,Wrong
+1580,Ragdoll,British shorthair,Wrong
+1581,Ragdoll,Ragdoll,Correct
+1582,Ragdoll,Ragdoll,Correct
+1583,Ragdoll,Ragdoll,Correct
+1584,Ragdoll,Ragdoll,Correct
+1585,Ragdoll,Ragdoll,Correct
+1586,Ragdoll,Ragdoll,Correct
+1587,Ragdoll,Ragdoll,Correct
+1588,Ragdoll,Ragdoll,Correct
+1589,Ragdoll,Ragdoll,Correct
+1590,Ragdoll,Ragdoll,Correct
+1591,Ragdoll,Ragdoll,Correct
+1592,Ragdoll,Ragdoll,Correct
+1593,Ragdoll,Ragdoll,Correct
+1594,Ragdoll,Birman,Wrong
+1595,Ragdoll,Ragdoll,Correct
+1596,Ragdoll,Birman,Wrong
+1597,Ragdoll,Ragdoll,Correct
+1598,Ragdoll,Ragdoll,Correct
+1599,Ragdoll,Siamese,Wrong
+1600,Ragdoll,Ragdoll,Correct
+1601,Ragdoll,Siamese,Wrong
+1602,Ragdoll,Ragdoll,Correct
+1603,Ragdoll,Keeshond,Wrong
+1604,Ragdoll,Birman,Wrong
+1605,Ragdoll,Ragdoll,Correct
+1606,Ragdoll,Siamese,Wrong
+1607,Ragdoll,Siamese,Wrong
+1608,Ragdoll,Ragdoll,Correct
+1609,Ragdoll,Ragdoll,Correct
+1610,Ragdoll,Ragdoll,Correct
+1611,Ragdoll,Ragdoll,Correct
+1612,Ragdoll,Ragdoll,Correct
+1613,Ragdoll,Ragdoll,Correct
+1614,Ragdoll,Ragdoll,Correct
+1615,Ragdoll,Ragdoll,Correct
+1616,Ragdoll,Ragdoll,Correct
+1617,Ragdoll,Ragdoll,Correct
+1618,Ragdoll,Ragdoll,Correct
+1619,Ragdoll,Ragdoll,Correct
+1620,Ragdoll,Ragdoll,Correct
+1621,Russian blue,Russian blue,Correct
+1622,Russian blue,British shorthair,Wrong
+1623,Russian blue,Russian blue,Correct
+1624,Russian blue,Russian blue,Correct
+1625,Russian blue,Russian blue,Correct
+1626,Russian blue,Russian blue,Correct
+1627,Russian blue,Russian blue,Correct
+1628,Russian blue,Abyssinian,Wrong
+1629,Russian blue,Abyssinian,Wrong
+1630,Russian blue,Russian blue,Correct
+1631,Russian blue,Russian blue,Correct
+1632,Russian blue,Russian blue,Correct
+1633,Russian blue,Russian blue,Correct
+1634,Russian blue,Russian blue,Correct
+1635,Russian blue,Russian blue,Correct
+1636,Russian blue,Abyssinian,Wrong
+1637,Russian blue,Russian blue,Correct
+1638,Russian blue,Russian blue,Correct
+1639,Russian blue,Abyssinian,Wrong
+1640,Russian blue,Abyssinian,Wrong
+1641,Russian blue,Russian blue,Correct
+1642,Russian blue,Russian blue,Correct
+1643,Russian blue,Russian blue,Correct
+1644,Russian blue,Russian blue,Correct
+1645,Russian blue,Russian blue,Correct
+1646,Russian blue,Russian blue,Correct
+1647,Russian blue,Russian blue,Correct
+1648,Russian blue,Russian blue,Correct
+1649,Russian blue,Russian blue,Correct
+1650,Russian blue,Ragdoll,Wrong
+1651,Russian blue,Russian blue,Correct
+1652,Russian blue,Russian blue,Correct
+1653,Russian blue,Russian blue,Correct
+1654,Russian blue,Russian blue,Correct
+1655,Russian blue,Abyssinian,Wrong
+1656,Russian blue,Russian blue,Correct
+1657,Russian blue,Russian blue,Correct
+1658,Russian blue,Russian blue,Correct
+1659,Russian blue,Russian blue,Correct
+1660,Russian blue,Russian blue,Correct
+1661,Russian blue,Russian blue,Correct
+1662,Russian blue,Russian blue,Correct
+1663,Russian blue,Abyssinian,Wrong
+1664,Russian blue,Russian blue,Correct
+1665,Russian blue,Russian blue,Correct
+1666,Russian blue,Bombay,Wrong
+1667,Russian blue,Russian blue,Correct
+1668,Russian blue,British shorthair,Wrong
+1669,Russian blue,Russian blue,Correct
+1670,Russian blue,Russian blue,Correct
+1671,Russian blue,Russian blue,Correct
+1672,Russian blue,Russian blue,Correct
+1673,Russian blue,Russian blue,Correct
+1674,Russian blue,Russian blue,Correct
+1675,Russian blue,Abyssinian,Wrong
+1676,Russian blue,Russian blue,Correct
+1677,Russian blue,Russian blue,Correct
+1678,Russian blue,Russian blue,Correct
+1679,Russian blue,Russian blue,Correct
+1680,Russian blue,Russian blue,Correct
+1681,Saint bernard,Saint bernard,Correct
+1682,Saint bernard,American bulldog,Wrong
+1683,Saint bernard,Japanese chin,Wrong
+1684,Saint bernard,American bulldog,Wrong
+1685,Saint bernard,Saint bernard,Correct
+1686,Saint bernard,Saint bernard,Correct
+1687,Saint bernard,Boxer,Wrong
+1688,Saint bernard,Boxer,Wrong
+1689,Saint bernard,Japanese chin,Wrong
+1690,Saint bernard,American bulldog,Wrong
+1691,Saint bernard,Saint bernard,Correct
+1692,Saint bernard,Japanese chin,Wrong
+1693,Saint bernard,Saint bernard,Correct
+1694,Saint bernard,Beagle,Wrong
+1695,Saint bernard,Japanese chin,Wrong
+1696,Saint bernard,Siamese,Wrong
+1697,Saint bernard,Saint bernard,Correct
+1698,Saint bernard,Saint bernard,Correct
+1699,Saint bernard,Saint bernard,Correct
+1700,Saint bernard,Pug,Wrong
+1701,Saint bernard,American bulldog,Wrong
+1702,Saint bernard,Japanese chin,Wrong
+1703,Saint bernard,American bulldog,Wrong
+1704,Saint bernard,Saint bernard,Correct
+1705,Saint bernard,Saint bernard,Correct
+1706,Saint bernard,Saint bernard,Correct
+1707,Saint bernard,Basset hound,Wrong
+1708,Saint bernard,Great pyrenees,Wrong
+1709,Saint bernard,Saint bernard,Correct
+1710,Saint bernard,Saint bernard,Correct
+1711,Saint bernard,Saint bernard,Correct
+1712,Saint bernard,Staffordshire bull terrier,Wrong
+1713,Saint bernard,Basset hound,Wrong
+1714,Saint bernard,Saint bernard,Correct
+1715,Saint bernard,Beagle,Wrong
+1716,Saint bernard,Abyssinian,Wrong
+1717,Saint bernard,Saint bernard,Correct
+1718,Saint bernard,Japanese chin,Wrong
+1719,Saint bernard,Saint bernard,Correct
+1720,Saint bernard,Boxer,Wrong
+1721,Saint bernard,Saint bernard,Correct
+1722,Saint bernard,Saint bernard,Correct
+1723,Saint bernard,Saint bernard,Correct
+1724,Saint bernard,Saint bernard,Correct
+1725,Saint bernard,Abyssinian,Wrong
+1726,Saint bernard,Saint bernard,Correct
+1727,Saint bernard,Saint bernard,Correct
+1728,Saint bernard,Japanese chin,Wrong
+1729,Saint bernard,Japanese chin,Wrong
+1730,Saint bernard,Bombay,Wrong
+1731,Saint bernard,Saint bernard,Correct
+1732,Saint bernard,Pug,Wrong
+1733,Saint bernard,Saint bernard,Correct
+1734,Saint bernard,Beagle,Wrong
+1735,Saint bernard,Japanese chin,Wrong
+1736,Saint bernard,Chihuahua,Wrong
+1737,Saint bernard,Saint bernard,Correct
+1738,Saint bernard,Saint bernard,Correct
+1739,Saint bernard,Saint bernard,Correct
+1740,Saint bernard,Basset hound,Wrong
+1741,Samoyed,Samoyed,Correct
+1742,Samoyed,Samoyed,Correct
+1743,Samoyed,Samoyed,Correct
+1744,Samoyed,Samoyed,Correct
+1745,Samoyed,Samoyed,Correct
+1746,Samoyed,Samoyed,Correct
+1747,Samoyed,Keeshond,Wrong
+1748,Samoyed,Ragdoll,Wrong
+1749,Samoyed,Samoyed,Correct
+1750,Samoyed,Keeshond,Wrong
+1751,Samoyed,Ragdoll,Wrong
+1752,Samoyed,Samoyed,Correct
+1753,Samoyed,Samoyed,Correct
+1754,Samoyed,Samoyed,Correct
+1755,Samoyed,Great pyrenees,Wrong
+1756,Samoyed,Samoyed,Correct
+1757,Samoyed,Wheaten terrier,Wrong
+1758,Samoyed,Samoyed,Correct
+1759,Samoyed,Samoyed,Correct
+1760,Samoyed,Samoyed,Correct
+1761,Samoyed,Samoyed,Correct
+1762,Samoyed,Samoyed,Correct
+1763,Samoyed,Samoyed,Correct
+1764,Samoyed,Samoyed,Correct
+1765,Samoyed,Samoyed,Correct
+1766,Samoyed,Samoyed,Correct
+1767,Samoyed,Samoyed,Correct
+1768,Samoyed,Persian,Wrong
+1769,Samoyed,Samoyed,Correct
+1770,Samoyed,Samoyed,Correct
+1771,Samoyed,Persian,Wrong
+1772,Samoyed,Samoyed,Correct
+1773,Samoyed,Samoyed,Correct
+1774,Samoyed,Samoyed,Correct
+1775,Samoyed,Samoyed,Correct
+1776,Samoyed,Ragdoll,Wrong
+1777,Samoyed,Samoyed,Correct
+1778,Samoyed,Samoyed,Correct
+1779,Samoyed,Samoyed,Correct
+1780,Samoyed,Samoyed,Correct
+1781,Samoyed,Samoyed,Correct
+1782,Samoyed,Samoyed,Correct
+1783,Samoyed,Samoyed,Correct
+1784,Samoyed,Samoyed,Correct
+1785,Samoyed,Samoyed,Correct
+1786,Samoyed,Samoyed,Correct
+1787,Samoyed,Samoyed,Correct
+1788,Samoyed,Samoyed,Correct
+1789,Samoyed,Samoyed,Correct
+1790,Samoyed,Samoyed,Correct
+1791,Samoyed,Samoyed,Correct
+1792,Samoyed,Keeshond,Wrong
+1793,Samoyed,Pomeranian,Wrong
+1794,Samoyed,Samoyed,Correct
+1795,Samoyed,Samoyed,Correct
+1796,Samoyed,Samoyed,Correct
+1797,Samoyed,Samoyed,Correct
+1798,Samoyed,Samoyed,Correct
+1799,Samoyed,Samoyed,Correct
+1800,Samoyed,Samoyed,Correct
+1801,Scottish terrier,Bombay,Wrong
+1802,Scottish terrier,Bombay,Wrong
+1803,Scottish terrier,Bombay,Wrong
+1804,Scottish terrier,Bombay,Wrong
+1805,Scottish terrier,Bombay,Wrong
+1806,Scottish terrier,Bombay,Wrong
+1807,Scottish terrier,American pit bull terrier,Wrong
+1808,Scottish terrier,Scottish terrier,Correct
+1809,Scottish terrier,Scottish terrier,Correct
+1810,Scottish terrier,Scottish terrier,Correct
+1811,Scottish terrier,Bombay,Wrong
+1812,Scottish terrier,Bombay,Wrong
+1813,Scottish terrier,Bombay,Wrong
+1814,Scottish terrier,Scottish terrier,Correct
+1815,Scottish terrier,German shorthaired,Wrong
+1816,Scottish terrier,Wheaten terrier,Wrong
+1817,Scottish terrier,Scottish terrier,Correct
+1818,Scottish terrier,Bombay,Wrong
+1819,Scottish terrier,Bombay,Wrong
+1820,Scottish terrier,Bombay,Wrong
+1821,Scottish terrier,Newfoundland,Wrong
+1822,Scottish terrier,Chihuahua,Wrong
+1823,Scottish terrier,Scottish terrier,Correct
+1824,Scottish terrier,Scottish terrier,Correct
+1825,Scottish terrier,Scottish terrier,Correct
+1826,Scottish terrier,Scottish terrier,Correct
+1827,Scottish terrier,Scottish terrier,Correct
+1828,Scottish terrier,Scottish terrier,Correct
+1829,Scottish terrier,Scottish terrier,Correct
+1830,Scottish terrier,Bombay,Wrong
+1831,Scottish terrier,Bombay,Wrong
+1832,Scottish terrier,Bombay,Wrong
+1833,Scottish terrier,Bombay,Wrong
+1834,Scottish terrier,Bombay,Wrong
+1835,Scottish terrier,Scottish terrier,Correct
+1836,Scottish terrier,Wheaten terrier,Wrong
+1837,Scottish terrier,Scottish terrier,Correct
+1838,Scottish terrier,Bombay,Wrong
+1839,Scottish terrier,Bombay,Wrong
+1840,Scottish terrier,Scottish terrier,Correct
+1841,Scottish terrier,Havanese,Wrong
+1842,Scottish terrier,Bombay,Wrong
+1843,Scottish terrier,Havanese,Wrong
+1844,Scottish terrier,Scottish terrier,Correct
+1845,Scottish terrier,Scottish terrier,Correct
+1846,Scottish terrier,Wheaten terrier,Wrong
+1847,Scottish terrier,Bombay,Wrong
+1848,Scottish terrier,Scottish terrier,Correct
+1849,Scottish terrier,Scottish terrier,Correct
+1850,Scottish terrier,Keeshond,Wrong
+1851,Scottish terrier,Bombay,Wrong
+1852,Scottish terrier,Scottish terrier,Correct
+1853,Scottish terrier,Scottish terrier,Correct
+1854,Scottish terrier,Bombay,Wrong
+1855,Scottish terrier,Bombay,Wrong
+1856,Scottish terrier,Samoyed,Wrong
+1857,Scottish terrier,Scottish terrier,Correct
+1858,Scottish terrier,Newfoundland,Wrong
+1859,Scottish terrier,Keeshond,Wrong
+1860,Scottish terrier,Wheaten terrier,Wrong
+1861,Shiba inu,Shiba inu,Correct
+1862,Shiba inu,Shiba inu,Correct
+1863,Shiba inu,Shiba inu,Correct
+1864,Shiba inu,Shiba inu,Correct
+1865,Shiba inu,Shiba inu,Correct
+1866,Shiba inu,Abyssinian,Wrong
+1867,Shiba inu,Shiba inu,Correct
+1868,Shiba inu,Shiba inu,Correct
+1869,Shiba inu,Shiba inu,Correct
+1870,Shiba inu,Japanese chin,Wrong
+1871,Shiba inu,Japanese chin,Wrong
+1872,Shiba inu,Shiba inu,Correct
+1873,Shiba inu,Siamese,Wrong
+1874,Shiba inu,Abyssinian,Wrong
+1875,Shiba inu,Shiba inu,Correct
+1876,Shiba inu,Beagle,Wrong
+1877,Shiba inu,Shiba inu,Correct
+1878,Shiba inu,Shiba inu,Correct
+1879,Shiba inu,Shiba inu,Correct
+1880,Shiba inu,Shiba inu,Correct
+1881,Shiba inu,Shiba inu,Correct
+1882,Shiba inu,Abyssinian,Wrong
+1883,Shiba inu,Shiba inu,Correct
+1884,Shiba inu,Shiba inu,Correct
+1885,Shiba inu,Sphynx,Wrong
+1886,Shiba inu,Shiba inu,Correct
+1887,Shiba inu,Abyssinian,Wrong
+1888,Shiba inu,Shiba inu,Correct
+1889,Shiba inu,Abyssinian,Wrong
+1890,Shiba inu,Shiba inu,Correct
+1891,Shiba inu,Shiba inu,Correct
+1892,Shiba inu,Staffordshire bull terrier,Wrong
+1893,Shiba inu,Samoyed,Wrong
+1894,Shiba inu,Shiba inu,Correct
+1895,Shiba inu,Shiba inu,Correct
+1896,Shiba inu,Russian blue,Wrong
+1897,Shiba inu,Shiba inu,Correct
+1898,Shiba inu,Abyssinian,Wrong
+1899,Shiba inu,Shiba inu,Correct
+1900,Shiba inu,Abyssinian,Wrong
+1901,Shiba inu,Staffordshire bull terrier,Wrong
+1902,Shiba inu,Shiba inu,Correct
+1903,Shiba inu,Shiba inu,Correct
+1904,Shiba inu,Samoyed,Wrong
+1905,Shiba inu,American pit bull terrier,Wrong
+1906,Shiba inu,Shiba inu,Correct
+1907,Shiba inu,Beagle,Wrong
+1908,Shiba inu,Shiba inu,Correct
+1909,Shiba inu,Shiba inu,Correct
+1910,Shiba inu,Shiba inu,Correct
+1911,Shiba inu,Shiba inu,Correct
+1912,Shiba inu,Shiba inu,Correct
+1913,Shiba inu,Pug,Wrong
+1914,Shiba inu,Samoyed,Wrong
+1915,Shiba inu,Shiba inu,Correct
+1916,Shiba inu,Shiba inu,Correct
+1917,Shiba inu,Shiba inu,Correct
+1918,Shiba inu,Beagle,Wrong
+1919,Shiba inu,Abyssinian,Wrong
+1920,Shiba inu,Shiba inu,Correct
+1921,Siamese,Siamese,Correct
+1922,Siamese,Siamese,Correct
+1923,Siamese,Siamese,Correct
+1924,Siamese,Siamese,Correct
+1925,Siamese,Siamese,Correct
+1926,Siamese,Siamese,Correct
+1927,Siamese,Siamese,Correct
+1928,Siamese,Siamese,Correct
+1929,Siamese,British shorthair,Wrong
+1930,Siamese,Siamese,Correct
+1931,Siamese,Siamese,Correct
+1932,Siamese,Siamese,Correct
+1933,Siamese,Ragdoll,Wrong
+1934,Siamese,Abyssinian,Wrong
+1935,Siamese,Siamese,Correct
+1936,Siamese,Ragdoll,Wrong
+1937,Siamese,Siamese,Correct
+1938,Siamese,Siamese,Correct
+1939,Siamese,Siamese,Correct
+1940,Siamese,Siamese,Correct
+1941,Siamese,Siamese,Correct
+1942,Siamese,Siamese,Correct
+1943,Siamese,Siamese,Correct
+1944,Siamese,Siamese,Correct
+1945,Siamese,Siamese,Correct
+1946,Siamese,Siamese,Correct
+1947,Siamese,Siamese,Correct
+1948,Siamese,Siamese,Correct
+1949,Siamese,Siamese,Correct
+1950,Siamese,Siamese,Correct
+1951,Siamese,Siamese,Correct
+1952,Siamese,Siamese,Correct
+1953,Siamese,Siamese,Correct
+1954,Siamese,Siamese,Correct
+1955,Siamese,Siamese,Correct
+1956,Siamese,Siamese,Correct
+1957,Siamese,Abyssinian,Wrong
+1958,Siamese,Siamese,Correct
+1959,Siamese,Siamese,Correct
+1960,Siamese,Siamese,Correct
+1961,Siamese,Siamese,Correct
+1962,Siamese,Siamese,Correct
+1963,Siamese,Ragdoll,Wrong
+1964,Siamese,Siamese,Correct
+1965,Siamese,Abyssinian,Wrong
+1966,Siamese,Abyssinian,Wrong
+1967,Siamese,Siamese,Correct
+1968,Siamese,Siamese,Correct
+1969,Siamese,Abyssinian,Wrong
+1970,Siamese,Siamese,Correct
+1971,Siamese,Siamese,Correct
+1972,Siamese,Siamese,Correct
+1973,Siamese,British shorthair,Wrong
+1974,Siamese,Siamese,Correct
+1975,Siamese,Siamese,Correct
+1976,Siamese,Siamese,Correct
+1977,Siamese,Siamese,Correct
+1978,Siamese,Abyssinian,Wrong
+1979,Siamese,Bengal,Wrong
+1980,Siamese,Siamese,Correct
+1981,Sphynx,Sphynx,Correct
+1982,Sphynx,Sphynx,Correct
+1983,Sphynx,Sphynx,Correct
+1984,Sphynx,Sphynx,Correct
+1985,Sphynx,Sphynx,Correct
+1986,Sphynx,Sphynx,Correct
+1987,Sphynx,Russian blue,Wrong
+1988,Sphynx,Sphynx,Correct
+1989,Sphynx,Abyssinian,Wrong
+1990,Sphynx,Sphynx,Correct
+1991,Sphynx,Abyssinian,Wrong
+1992,Sphynx,Sphynx,Correct
+1993,Sphynx,Sphynx,Correct
+1994,Sphynx,Sphynx,Correct
+1995,Sphynx,Sphynx,Correct
+1996,Sphynx,Boxer,Wrong
+1997,Sphynx,Abyssinian,Wrong
+1998,Sphynx,Sphynx,Correct
+1999,Sphynx,Sphynx,Correct
+2000,Sphynx,Sphynx,Correct
+2001,Sphynx,Sphynx,Correct
+2002,Sphynx,Abyssinian,Wrong
+2003,Sphynx,Sphynx,Correct
+2004,Sphynx,Ragdoll,Wrong
+2005,Sphynx,Sphynx,Correct
+2006,Sphynx,Sphynx,Correct
+2007,Sphynx,Sphynx,Correct
+2008,Sphynx,Abyssinian,Wrong
+2009,Sphynx,Sphynx,Correct
+2010,Sphynx,Sphynx,Correct
+2011,Sphynx,Abyssinian,Wrong
+2012,Sphynx,Sphynx,Correct
+2013,Sphynx,Abyssinian,Wrong
+2014,Sphynx,Abyssinian,Wrong
+2015,Sphynx,Sphynx,Correct
+2016,Sphynx,Egyptian mau,Wrong
+2017,Sphynx,Abyssinian,Wrong
+2018,Sphynx,Sphynx,Correct
+2019,Sphynx,Sphynx,Correct
+2020,Sphynx,Abyssinian,Wrong
+2021,Sphynx,Sphynx,Correct
+2022,Sphynx,Sphynx,Correct
+2023,Sphynx,Abyssinian,Wrong
+2024,Sphynx,Abyssinian,Wrong
+2025,Sphynx,Sphynx,Correct
+2026,Sphynx,Sphynx,Correct
+2027,Sphynx,Sphynx,Correct
+2028,Sphynx,Abyssinian,Wrong
+2029,Sphynx,Sphynx,Correct
+2030,Sphynx,Abyssinian,Wrong
+2031,Sphynx,Sphynx,Correct
+2032,Sphynx,Sphynx,Correct
+2033,Sphynx,Sphynx,Correct
+2034,Sphynx,Russian blue,Wrong
+2035,Sphynx,Sphynx,Correct
+2036,Sphynx,Sphynx,Correct
+2037,Sphynx,Bengal,Wrong
+2038,Sphynx,Abyssinian,Wrong
+2039,Sphynx,Bengal,Wrong
+2040,Sphynx,Sphynx,Correct
+2041,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2042,Staffordshire bull terrier,German shorthaired,Wrong
+2043,Staffordshire bull terrier,Japanese chin,Wrong
+2044,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2045,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2046,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2047,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2048,Staffordshire bull terrier,Bombay,Wrong
+2049,Staffordshire bull terrier,Japanese chin,Wrong
+2050,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2051,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2052,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2053,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2054,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2055,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2056,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2057,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2058,Staffordshire bull terrier,Japanese chin,Wrong
+2059,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2060,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2061,Staffordshire bull terrier,Beagle,Wrong
+2062,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2063,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2064,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2065,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2066,Staffordshire bull terrier,Boxer,Wrong
+2067,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2068,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2069,Staffordshire bull terrier,American pit bull terrier,Wrong
+2070,Staffordshire bull terrier,American pit bull terrier,Wrong
+2071,Staffordshire bull terrier,American pit bull terrier,Wrong
+2072,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2073,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2074,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2075,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2076,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2077,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2078,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2079,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2080,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2081,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2082,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2083,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2084,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2085,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2086,Staffordshire bull terrier,Ragdoll,Wrong
+2087,Staffordshire bull terrier,Japanese chin,Wrong
+2088,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2089,Staffordshire bull terrier,American pit bull terrier,Wrong
+2090,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2091,Staffordshire bull terrier,Bombay,Wrong
+2092,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2093,Staffordshire bull terrier,Beagle,Wrong
+2094,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2095,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2096,Staffordshire bull terrier,Abyssinian,Wrong
+2097,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2098,Staffordshire bull terrier,Staffordshire bull terrier,Correct
+2099,Wheaten terrier,Wheaten terrier,Correct
+2100,Wheaten terrier,Wheaten terrier,Correct
+2101,Wheaten terrier,Wheaten terrier,Correct
+2102,Wheaten terrier,Wheaten terrier,Correct
+2103,Wheaten terrier,Wheaten terrier,Correct
+2104,Wheaten terrier,Wheaten terrier,Correct
+2105,Wheaten terrier,Wheaten terrier,Correct
+2106,Wheaten terrier,Wheaten terrier,Correct
+2107,Wheaten terrier,Wheaten terrier,Correct
+2108,Wheaten terrier,Wheaten terrier,Correct
+2109,Wheaten terrier,Wheaten terrier,Correct
+2110,Wheaten terrier,Wheaten terrier,Correct
+2111,Wheaten terrier,Wheaten terrier,Correct
+2112,Wheaten terrier,Wheaten terrier,Correct
+2113,Wheaten terrier,Wheaten terrier,Correct
+2114,Wheaten terrier,Great pyrenees,Wrong
+2115,Wheaten terrier,Wheaten terrier,Correct
+2116,Wheaten terrier,Wheaten terrier,Correct
+2117,Wheaten terrier,Wheaten terrier,Correct
+2118,Wheaten terrier,Wheaten terrier,Correct
+2119,Wheaten terrier,Persian,Wrong
+2120,Wheaten terrier,Wheaten terrier,Correct
+2121,Wheaten terrier,Wheaten terrier,Correct
+2122,Wheaten terrier,English setter,Wrong
+2123,Wheaten terrier,Wheaten terrier,Correct
+2124,Wheaten terrier,Newfoundland,Wrong
+2125,Wheaten terrier,Wheaten terrier,Correct
+2126,Wheaten terrier,Wheaten terrier,Correct
+2127,Wheaten terrier,Wheaten terrier,Correct
+2128,Wheaten terrier,Wheaten terrier,Correct
+2129,Wheaten terrier,Maine coon,Wrong
+2130,Wheaten terrier,Wheaten terrier,Correct
+2131,Wheaten terrier,Wheaten terrier,Correct
+2132,Wheaten terrier,Wheaten terrier,Correct
+2133,Wheaten terrier,Wheaten terrier,Correct
+2134,Wheaten terrier,Wheaten terrier,Correct
+2135,Wheaten terrier,Wheaten terrier,Correct
+2136,Wheaten terrier,Maine coon,Wrong
+2137,Wheaten terrier,Wheaten terrier,Correct
+2138,Wheaten terrier,Wheaten terrier,Correct
+2139,Wheaten terrier,Wheaten terrier,Correct
+2140,Wheaten terrier,Wheaten terrier,Correct
+2141,Wheaten terrier,Great pyrenees,Wrong
+2142,Wheaten terrier,Wheaten terrier,Correct
+2143,Wheaten terrier,Maine coon,Wrong
+2144,Wheaten terrier,Wheaten terrier,Correct
+2145,Wheaten terrier,Wheaten terrier,Correct
+2146,Wheaten terrier,Abyssinian,Wrong
+2147,Wheaten terrier,Wheaten terrier,Correct
+2148,Wheaten terrier,Wheaten terrier,Correct
+2149,Wheaten terrier,Wheaten terrier,Correct
+2150,Wheaten terrier,Wheaten terrier,Correct
+2151,Wheaten terrier,Wheaten terrier,Correct
+2152,Wheaten terrier,Wheaten terrier,Correct
+2153,Wheaten terrier,English setter,Wrong
+2154,Wheaten terrier,Wheaten terrier,Correct
+2155,Wheaten terrier,Wheaten terrier,Correct
+2156,Wheaten terrier,Wheaten terrier,Correct
+2157,Wheaten terrier,Russian blue,Wrong
+2158,Wheaten terrier,Wheaten terrier,Correct
+2159,Yorkshire terrier,Bombay,Wrong
+2160,Yorkshire terrier,Yorkshire terrier,Correct
+2161,Yorkshire terrier,Yorkshire terrier,Correct
+2162,Yorkshire terrier,Persian,Wrong
+2163,Yorkshire terrier,Keeshond,Wrong
+2164,Yorkshire terrier,Yorkshire terrier,Correct
+2165,Yorkshire terrier,Yorkshire terrier,Correct
+2166,Yorkshire terrier,Pug,Wrong
+2167,Yorkshire terrier,Yorkshire terrier,Correct
+2168,Yorkshire terrier,Wheaten terrier,Wrong
+2169,Yorkshire terrier,Yorkshire terrier,Correct
+2170,Yorkshire terrier,Scottish terrier,Wrong
+2171,Yorkshire terrier,Maine coon,Wrong
+2172,Yorkshire terrier,Yorkshire terrier,Correct
+2173,Yorkshire terrier,Wheaten terrier,Wrong
+2174,Yorkshire terrier,Yorkshire terrier,Correct
+2175,Yorkshire terrier,Yorkshire terrier,Correct
+2176,Yorkshire terrier,Yorkshire terrier,Correct
+2177,Yorkshire terrier,Yorkshire terrier,Correct
+2178,Yorkshire terrier,Yorkshire terrier,Correct
+2179,Yorkshire terrier,Yorkshire terrier,Correct
+2180,Yorkshire terrier,Yorkshire terrier,Correct
+2181,Yorkshire terrier,Yorkshire terrier,Correct
+2182,Yorkshire terrier,Wheaten terrier,Wrong
+2183,Yorkshire terrier,Yorkshire terrier,Correct
+2184,Yorkshire terrier,Yorkshire terrier,Correct
+2185,Yorkshire terrier,Yorkshire terrier,Correct
+2186,Yorkshire terrier,Yorkshire terrier,Correct
+2187,Yorkshire terrier,Yorkshire terrier,Correct
+2188,Yorkshire terrier,Bengal,Wrong
+2189,Yorkshire terrier,Yorkshire terrier,Correct
+2190,Yorkshire terrier,Yorkshire terrier,Correct
+2191,Yorkshire terrier,Yorkshire terrier,Correct
+2192,Yorkshire terrier,Yorkshire terrier,Correct
+2193,Yorkshire terrier,Yorkshire terrier,Correct
+2194,Yorkshire terrier,Yorkshire terrier,Correct
+2195,Yorkshire terrier,Yorkshire terrier,Correct
+2196,Yorkshire terrier,Abyssinian,Wrong
+2197,Yorkshire terrier,Yorkshire terrier,Correct
+2198,Yorkshire terrier,Yorkshire terrier,Correct
+2199,Yorkshire terrier,Yorkshire terrier,Correct
+2200,Yorkshire terrier,Yorkshire terrier,Correct
+2201,Yorkshire terrier,Yorkshire terrier,Correct
+2202,Yorkshire terrier,Yorkshire terrier,Correct
+2203,Yorkshire terrier,Yorkshire terrier,Correct
+2204,Yorkshire terrier,Yorkshire terrier,Correct
+2205,Yorkshire terrier,American pit bull terrier,Wrong
+2206,Yorkshire terrier,Yorkshire terrier,Correct
+2207,Yorkshire terrier,Wheaten terrier,Wrong
+2208,Yorkshire terrier,Yorkshire terrier,Correct
+2209,Yorkshire terrier,Wheaten terrier,Wrong
+2210,Yorkshire terrier,Yorkshire terrier,Correct
+2211,Yorkshire terrier,Abyssinian,Wrong
+2212,Yorkshire terrier,Wheaten terrier,Wrong
+2213,Yorkshire terrier,Yorkshire terrier,Correct
+2214,Yorkshire terrier,Yorkshire terrier,Correct
+2215,Yorkshire terrier,Japanese chin,Wrong
+2216,Yorkshire terrier,Yorkshire terrier,Correct
+2217,Yorkshire terrier,Abyssinian,Wrong
+2218,Yorkshire terrier,Wheaten terrier,Wrong
